@@ -22,7 +22,7 @@ Además, se requiere el siguiente software:
 * Microsoft Power BI: Descargable desde [aquí](https://www.microsoft.com/en-us/download/details.aspx?id=58494). Además, se requiere instalar un controlador de base de datos (driver ODBC) para usar SQLite con Power BI desde [aquí](http://www.ch-werner.de/sqliteodbc/sqliteodbc_w64.exe) (enlace de descarga directo) o desde [aquí](http://www.ch-werner.de/sqliteodbc/) (ver otras versiones).
 * Para operaciones de importación y exportación de datos a formato CSV con la base de datos SQLite, se requiere instalar el programa de línea de comandos ([descarga directa Windows x64 aquí](https://www.sqlite.org/2021/sqlite-tools-win32-x86-3360000.zip), [otras versiones aquí](https://www.sqlite.org/download.html)).
 
-## Paso 1: Poblar la base de datos
+## Paso 1: Poblar la base de datos (15 minutos)
 
 Vamos a poblar nuestra base de datos con datos simulados de cervezas, pedidos, clientes, etc. Primero, mostraremos cómo esto puede realizarse con datos simulados utilizando un script. No es necesario que tú ejecutes el script pues al cabo de este ejercicio contarás con la base de datos completa. Luego, mostraremos cómo realizarlo importando archivos de tipo CSV en la base de datos.
 
