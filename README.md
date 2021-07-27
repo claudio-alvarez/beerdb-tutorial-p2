@@ -20,7 +20,7 @@ Además, se requiere el siguiente software:
 
 * Microsoft Visual Studio Code (VSCode) con extensión de SQLite. Vimos en la [parte 1](https://github.com/claudio-alvarez/beerdb-tutorial-p1) cómo instalar este software.
 * Microsoft Power BI: Descargable desde [aquí](https://www.microsoft.com/en-us/download/details.aspx?id=58494). Además, se requiere instalar un controlador de base de datos (driver ODBC) para usar SQLite con Power BI desde [aquí](http://www.ch-werner.de/sqliteodbc/sqliteodbc_w64.exe) (enlace de descarga directo) o desde [aquí](http://www.ch-werner.de/sqliteodbc/) (ver otras versiones).
-* Para operaciones de importación y exportación de datos a formato CSV con la base de datos SQLite, se requiere instalar el programa de línea de comandos ([descarga directa Windows x64 aquí](https://www.sqlite.org/2021/sqlite-tools-win32-x86-3360000.zip), [otras versiones aquí](https://www.sqlite.org/download.html)).
+* Para operaciones de importación y exportación de datos a formato CSV con la base de datos SQLite, se requiere instalar el programa de línea de comandos de SQLite ([descarga directa Windows x64 aquí](https://www.sqlite.org/2021/sqlite-tools-win32-x86-3360000.zip), [otras versiones aquí](https://www.sqlite.org/download.html)).
 
 ## Paso 1: Poblar la base de datos (15 minutos)
 
