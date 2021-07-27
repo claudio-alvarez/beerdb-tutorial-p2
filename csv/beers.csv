@@ -1,0 +1,2000 @@
+1,Stout,750,4.21,2040,Duvel,286
+2,"Wood-aged Beer",5000,6.0,540,"Samuel Smith’s Oatmeal Stout",163
+3,"Merican Ale",5000,9.57,1220,"Trois Pistoles",253
+4,"English Brown Ale",1000,0.15,2030,"Alpha King Pale Ale",85
+5,"German Wheat And Rye Beer",500,3.62,8040,"St. Bernardus Abt 12",268
+6,"German Wheat And Rye Beer",1000,2.36,1090,"Samuel Smith’s Oatmeal Stout",183
+7,"European Amber Lager",5000,9.25,2850,"Old Rasputin Russian Imperial Stout",353
+8,"Belgian And French Ale",500,11.75,1520,"Founders Breakfast Stout",252
+9,"Strong Ale",500,11.09,2850,"Stone IPA",33
+10,"India Pale Ale",330,4.46,1520,Maharaj,35
+11,"German Wheat And Rye Beer",1000,12.52,2050,"Sierra Nevada Celebration Ale",383
+12,Stout,1000,2.96,1890,"Chocolate St",163
+13,"Light Lager",750,11.2,2090,"Trappistes Rochefort 8",500
+14,"Dark Lager",1000,10.38,1530,"Brooklyn Black",330
+15,"Sour Ale",330,4.11,8030,"Brooklyn Black",448
+16,Smoke-flavored,750,11.07,580,"Delirium Noctorum",227
+17,Stout,500,11.64,1540,Hennepin,499
+18,Pilsner,750,7.56,8040,Maudite,394
+19,"Light Hybrid Beer",5000,11.49,1080,"Samuel Smith’s Imperial IPA",314
+20,"German Wheat And Rye Beer",5000,5.59,1250,"HopSlam Ale",427
+21,"Light Lager",5000,12.02,1540,"Racer 5 India Pale Ale, Bear Republic Bre",56
+22,"Vegetable Beer",500,8.48,8080,"Trois Pistoles",334
+23,"Belgian Strong Ale",5000,5.22,1880,"Bourbon County Stout",80
+24,"Scottish And Irish Ale",500,2.25,1880,"Westmalle Trappist Tripel",477
+25,Porter,500,0.56,1540,"Sublimely Self-Righteous Ale",180
+26,"Vegetable Beer",1000,5.04,2040,"Chimay Grande Réserve",448
+27,"Amber Hybrid Beer",1000,5.59,2090,"Bell’s Expedition",429
+28,"Fruit Beer",330,10.34,1590,"Sierra Nevada Celebration Ale",387
+29,Porter,750,12.18,8080,"Arrogant Bastard Ale",284
+30,"Strong Ale",1000,0.44,8040,"Shakespeare Oatmeal",345
+31,"Dark Lager",750,9.61,1230,"Stone Imperial Russian Stout",492
+32,"English Brown Ale",330,11.89,2080,"Storm King Stout",403
+33,"Light Hybrid Beer",500,6.18,1530,"Hop Rod Rye",460
+34,"Strong Ale",1000,1.74,520,"La Fin Du Monde",157
+35,Porter,750,3.72,8030,"Nugget Nectar",153
+36,"Dark Lager",330,8.93,1530,"Sapporo Premium",90
+37,"Belgian Strong Ale",5000,3.92,1830,"Péché Mortel",156
+38,"Merican Ale",5000,7.2,2830,"Sierra Nevada Celebration Ale",118
+39,"Belgian And French Ale",500,10.56,1050,"Double Bastard Ale",281
+40,Porter,330,3.67,2020,"Hop Rod Rye",19
+41,Porter,1000,3.25,2890,"Ruination IPA",467
+42,"English Pale Ale",5000,11.84,8030,"Sierra Nevada Celebration Ale",491
+43,"India Pale Ale",330,2.47,530,"Edmund Fitzgerald Porter",257
+44,Porter,330,9.95,1220,"St. Bernardus Abt 12",499
+45,"European Amber Lager",330,6.23,1580,"Double Bastard Ale",10
+46,"Dark Lager",750,6.06,1850,"Oaked Arrogant Bastard Ale",458
+47,"Sour Ale",330,4.96,1040,"Trappistes Rochefort 8",297
+48,"India Pale Ale",500,2.11,1250,Duvel,283
+49,"European Amber Lager",750,4.63,2830,"Schneider Aventinus",180
+50,"Belgian And French Ale",5000,6.5,1880,"Trappistes Rochefort 8",224
+51,"Amber Hybrid Beer",5000,0.66,2080,"Racer 5 India Pale Ale, Bear Republic Bre",185
+52,"Sour Ale",5000,10.32,2820,"Two Hearted Ale",133
+53,"Sour Ale",1000,11.0,530,"Pliny The Elder",99
+54,"Merican Ale",1000,2.49,1250,"Pliny The Elder",241
+55,"English Pale Ale",1000,11.84,530,"Sierra Nevada Celebration Ale",120
+56,"Wood-aged Beer",330,0.33,1530,"Celebrator Doppelbock",37
+57,"Strong Ale",750,6.1,1840,"Racer 5 India Pale Ale, Bear Republic Bre",176
+58,Stout,5000,0.48,530,"Stone IPA",386
+59,"Fruit Beer",500,0.33,1820,"Brooklyn Black",153
+60,Bock,330,5.18,550,"Stone IPA",34
+61,"India Pale Ale",1000,7.78,1890,"Racer 5 India Pale Ale, Bear Republic Bre",172
+62,"Scottish And Irish Ale",1000,8.87,1550,"Ten FIDY",139
+63,"Wood-aged Beer",750,2.01,540,"Nugget Nectar",138
+64,"Belgian And French Ale",330,1.26,2020,Duvel,442
+65,"India Pale Ale",5000,11.97,2080,Hennepin,404
+66,"Dark Lager",500,7.37,2890,"Bell’s Expedition",345
+67,"Light Hybrid Beer",330,2.37,580,"Alpha King Pale Ale",31
+68,"India Pale Ale",500,1.93,8080,"Dreadnaught IPA",329
+69,Smoke-flavored,750,3.86,8020,"90 Minute IPA",101
+70,"European Amber Lager",5000,2.84,2830,"Weihenstephaner Hefeweissbier",412
+71,"Vegetable Beer",1000,12.41,2820,"Oak Aged Yeti Imperial Stout",317
+72,Stout,5000,12.59,1050,"St. Bernardus Abt 12",332
+73,"European Amber Lager",750,11.52,1840,"Sierra Nevada Celebration Ale",227
+74,"Light Hybrid Beer",330,5.62,2020,"Yeti Imperial Stout",254
+75,"German Wheat And Rye Beer",5000,12.61,1250,"Alpha King Pale Ale",115
+76,Pilsner,1000,10.01,2090,"Sublimely Self-Righteous Ale",309
+77,"German Wheat And Rye Beer",1000,0.73,520,"La Fin Du Monde",478
+78,Porter,500,12.11,1880,"Founders Kentucky Breakfast",465
+79,"Strong Ale",1000,6.54,1540,"Founders Breakfast Stout",314
+80,"Vegetable Beer",1000,7.5,1820,"Kirin Inchiban",304
+81,"Light Lager",500,10.67,1550,"Dreadnaught IPA",304
+82,"Light Lager",500,11.87,530,"Delirium Tremens",94
+83,"Fruit Beer",500,8.96,2040,"Westmalle Trappist Tripel",358
+84,"Fruit Beer",750,6.75,2880,Maharaj,388
+85,Bock,750,6.94,2050,"Edmund Fitzgerald Porter",436
+86,"Sour Ale",5000,11.19,1890,"Founders Kentucky Breakfast",103
+87,Stout,330,0.51,1530,"Double Bastard Ale",108
+88,"European Amber Lager",330,8.37,8020,"Péché Mortel",483
+89,"Strong Ale",330,9.88,2820,"Edmund Fitzgerald Porter",161
+90,"Belgian Strong Ale",750,5.53,1820,"Kirin Inchiban",414
+91,"European Amber Lager",750,3.44,1880,"Bell’s Expedition",242
+92,Smoke-flavored,500,2.26,1850,"Founders Breakfast Stout",11
+93,"European Amber Lager",750,8.71,1550,Maudite,306
+94,"English Pale Ale",330,4.91,8020,"Péché Mortel",205
+95,"Merican Ale",330,2.09,2050,"Ruination IPA",222
+96,"Light Hybrid Beer",5000,2.32,1540,"Edmund Fitzgerald Porter",97
+97,"Dark Lager",1000,1.83,1080,"Chocolate St",314
+98,"English Pale Ale",5000,9.72,1220,"Trappistes Rochefort 10",264
+99,Bock,500,12.03,1530,"Péché Mortel",78
+100,Pilsner,1000,5.93,1880,"Two Hearted Ale",284
+101,"European Amber Lager",500,7.99,8050,"Weihenstephaner Hefeweissbier",6
+102,Smoke-flavored,500,11.43,1890,"Shakespeare Oatmeal",380
+103,Smoke-flavored,330,10.7,1090,"Pliny The Elder",156
+104,"India Pale Ale",5000,3.7,2020,"Bell’s Expedition",401
+105,"Vegetable Beer",1000,11.08,8080,"Kirin Inchiban",301
+106,"Scottish And Irish Ale",330,12.55,2030,"Racer 5 India Pale Ale, Bear Republic Bre",118
+107,"European Amber Lager",500,11.23,1220,"Weihenstephaner Hefeweissbier",155
+108,"India Pale Ale",1000,6.08,8090,"Nugget Nectar",261
+109,"Strong Ale",500,5.29,2090,"Founders Breakfast Stout",284
+110,"Dark Lager",5000,2.39,1220,"Edmund Fitzgerald Porter",303
+111,"Belgian Strong Ale",500,11.93,1590,"Racer 5 India Pale Ale, Bear Republic Bre",152
+112,Bock,500,3.04,8090,"Celebrator Doppelbock",175
+113,"English Brown Ale",500,7.08,1820,"Schneider Aventinus",306
+114,Pilsner,750,4.59,1890,"Hercules Double IPA",427
+115,"English Brown Ale",330,8.11,1520,"Ruination IPA",378
+116,"Wood-aged Beer",330,12.84,1050,"Founders Breakfast Stout",199
+117,"English Pale Ale",330,11.03,540,"Trappistes Rochefort 8",422
+118,"Strong Ale",5000,6.22,2090,"Bell’s Expedition",134
+119,"Light Hybrid Beer",330,10.06,520,Maudite,289
+120,"Wood-aged Beer",5000,12.58,1050,"Founders Breakfast Stout",245
+121,Bock,500,0.53,1820,"Hercules Double IPA",95
+122,"Light Lager",5000,11.19,8030,"Samuel Smith’s Imperial IPA",26
+123,Stout,5000,5.92,2050,"Sierra Nevada Bigfoot Barleywine Style Ale",331
+124,"Merican Ale",5000,1.6,2090,Hennepin,81
+125,Bock,330,1.15,8090,Duvel,221
+126,"Vegetable Beer",1000,6.17,590,"Bell’s Expedition",250
+127,"Belgian And French Ale",330,4.22,1020,"Dreadnaught IPA",208
+128,"Light Lager",500,1.78,2840,"Storm King Stout",361
+129,"Light Lager",1000,11.43,1020,"Oak Aged Yeti Imperial Stout",288
+130,"Merican Ale",1000,4.48,2840,Maudite,381
+131,"European Amber Lager",330,5.0,2030,"Samuel Smith’s Imperial IPA",246
+132,"Scottish And Irish Ale",500,12.84,1850,"Shakespeare Oatmeal",103
+133,Stout,500,12.22,8040,"Nugget Nectar",343
+134,Porter,5000,10.38,2850,"Stone IPA",93
+135,Bock,500,0.48,8030,"Pliny The Elder",90
+136,Stout,5000,1.49,2880,"Dreadnaught IPA",78
+137,Bock,750,4.47,1830,"Racer 5 India Pale Ale, Bear Republic Bre",90
+138,"Scottish And Irish Ale",750,4.92,590,"Storm King Stout",104
+139,Stout,5000,0.63,550,"Arrogant Bastard Ale",449
+140,"India Pale Ale",5000,12.05,2040,Maudite,4
+141,"English Brown Ale",500,5.0,2040,"Stone Imperial Russian Stout",19
+142,"Merican Ale",330,2.69,2030,"Weihenstephaner Hefeweissbier",383
+143,"Wood-aged Beer",5000,2.28,1890,"Founders Breakfast Stout",386
+144,"Merican Ale",330,9.97,1020,"Oaked Arrogant Bastard Ale",454
+145,"Scottish And Irish Ale",330,11.37,550,Duvel,152
+146,"Belgian And French Ale",1000,0.59,8090,"Trois Pistoles",233
+147,"European Amber Lager",750,7.53,8020,"Péché Mortel",335
+148,"Light Lager",750,9.94,2820,"Delirium Tremens",240
+149,"Scottish And Irish Ale",5000,3.05,2090,"Shakespeare Oatmeal",87
+150,Porter,330,10.81,1820,"Old Rasputin Russian Imperial Stout",234
+151,Porter,750,9.78,1530,Hennepin,95
+152,"Belgian And French Ale",1000,2.96,1820,"Founders Kentucky Breakfast",397
+153,"Scottish And Irish Ale",1000,5.86,1890,"Delirium Noctorum",236
+154,Bock,500,8.34,550,"Sierra Nevada Bigfoot Barleywine Style Ale",407
+155,Bock,330,0.4,1030,"Storm King Stout",298
+156,"English Pale Ale",5000,9.03,2850,"Double Bastard Ale",378
+157,"Light Lager",5000,11.11,8050,"Hop Rod Rye",166
+158,Bock,330,10.09,1880,"Bourbon County Stout",59
+159,Bock,5000,4.59,1590,"Schneider Aventinus",428
+160,"Vegetable Beer",1000,11.89,1030,"Pliny The Elder",216
+161,"Belgian Strong Ale",1000,6.13,8040,"Sapporo Premium",434
+162,"Fruit Beer",500,7.14,1550,"Trappistes Rochefort 8",148
+163,"Light Lager",750,9.43,8080,"Trappistes Rochefort 8",296
+164,"Scottish And Irish Ale",750,8.59,590,"Sierra Nevada Celebration Ale",457
+165,Bock,750,5.36,2080,"Founders Kentucky Breakfast",18
+166,"Amber Hybrid Beer",5000,4.97,1580,"Hercules Double IPA",467
+167,Smoke-flavored,500,11.35,540,"Trois Pistoles",11
+168,"European Amber Lager",330,8.18,1890,"Founders Breakfast Stout",466
+169,"Sour Ale",5000,9.03,8090,Maudite,350
+170,"Sour Ale",330,0.12,550,"Stone IPA",137
+171,"Vegetable Beer",750,4.75,1580,"Samuel Smith’s Imperial IPA",433
+172,"Merican Ale",330,10.37,580,"Hercules Double IPA",222
+173,Pilsner,5000,2.53,8050,"Bourbon County Stout",310
+174,Bock,5000,7.48,1020,"Shakespeare Oatmeal",214
+175,Pilsner,5000,2.5,580,"Dreadnaught IPA",336
+176,Pilsner,750,1.93,1290,Maharaj,403
+177,Stout,1000,6.73,2830,"Edmund Fitzgerald Porter",384
+178,"Belgian And French Ale",750,6.71,8050,"Double Bastard Ale",158
+179,"Sour Ale",5000,1.98,1020,"Weihenstephaner Hefeweissbier",71
+180,"Light Hybrid Beer",5000,8.51,2840,"Storm King Stout",467
+181,"Fruit Beer",1000,0.9,1220,"Bell’s Expedition",236
+182,"Belgian Strong Ale",750,8.68,1580,"Founders Breakfast Stout",176
+183,"Vegetable Beer",5000,7.02,2840,"Founders Breakfast Stout",475
+184,"Strong Ale",5000,3.68,1520,"Yeti Imperial Stout",5
+185,"Strong Ale",330,8.12,2020,"Hop Rod Rye",85
+186,"Vegetable Beer",500,9.16,1540,"Chocolate St",118
+187,Smoke-flavored,500,4.42,2850,"Bell’s Expedition",445
+188,Porter,330,9.97,1030,"Chocolate St",372
+189,"Dark Lager",330,1.64,1850,"Schneider Aventinus",262
+190,"English Pale Ale",330,10.59,550,"Edmund Fitzgerald Porter",52
+191,"Merican Ale",330,6.85,2080,Duvel,452
+192,"Vegetable Beer",5000,10.49,2840,"Racer 5 India Pale Ale, Bear Republic Bre",285
+193,"Scottish And Irish Ale",330,4.57,1580,"Two Hearted Ale",351
+194,"Light Lager",500,7.71,1540,"Trois Pistoles",461
+195,"Vegetable Beer",5000,3.23,520,"Brooklyn Black",30
+196,Bock,500,11.78,1880,"Storm King Stout",226
+197,Bock,750,6.04,8090,"Trappistes Rochefort 10",300
+198,"Fruit Beer",1000,11.86,1250,"Founders Breakfast Stout",356
+199,"Amber Hybrid Beer",500,2.1,2830,"Pliny The Elder",89
+200,"Wood-aged Beer",1000,12.3,8090,"Celebrator Doppelbock",90
+201,"English Pale Ale",1000,7.59,2880,"Péché Mortel",70
+202,Porter,750,8.98,2050,"Péché Mortel",77
+203,"Sour Ale",750,11.84,8040,"Westmalle Trappist Tripel",360
+204,"Fruit Beer",750,12.48,1520,"Trois Pistoles",259
+205,"Scottish And Irish Ale",750,3.58,1550,"Edmund Fitzgerald Porter",316
+206,"German Wheat And Rye Beer",500,5.16,2890,"Bell’s Expedition",194
+207,"Scottish And Irish Ale",500,9.44,1080,"Dreadnaught IPA",301
+208,"German Wheat And Rye Beer",500,2.88,1590,"Weihenstephaner Hefeweissbier",15
+209,"Belgian And French Ale",750,4.37,580,"Double Bastard Ale",79
+210,"English Brown Ale",1000,3.85,1230,"Sublimely Self-Righteous Ale",175
+211,"Scottish And Irish Ale",330,0.52,8090,"Samuel Smith’s Oatmeal Stout",155
+212,"Vegetable Beer",500,11.01,550,"Founders Breakfast Stout",459
+213,"Dark Lager",330,4.08,1020,"Double Bastard Ale",257
+214,"Wood-aged Beer",5000,2.06,550,"Delirium Noctorum",344
+215,"Strong Ale",1000,6.0,550,"Shakespeare Oatmeal",307
+216,"Vegetable Beer",330,6.64,1080,"Brooklyn Black",434
+217,"Belgian And French Ale",330,7.64,1850,"Orval Trappist Ale",464
+218,"Sour Ale",500,12.46,1890,Hennepin,239
+219,"Sour Ale",1000,1.63,1850,"Delirium Noctorum",485
+220,Porter,330,4.47,8030,"Dreadnaught IPA",246
+221,Porter,500,6.6,8050,"Delirium Noctorum",461
+222,"Vegetable Beer",330,6.94,1850,"Chimay Grande Réserve",196
+223,Smoke-flavored,5000,8.96,2830,"Racer 5 India Pale Ale, Bear Republic Bre",85
+224,"Sour Ale",1000,2.74,1080,"Dreadnaught IPA",15
+225,"Dark Lager",330,10.51,1240,"Stone Imperial Russian Stout",382
+226,Smoke-flavored,330,7.84,1280,"Pliny The Elder",66
+227,"Light Hybrid Beer",750,5.58,8050,"Trappistes Rochefort 10",90
+228,"Light Hybrid Beer",1000,2.41,8090,"Trois Pistoles",494
+229,"Light Lager",1000,4.97,8020,"Bourbon County Stout",104
+230,"Light Lager",5000,7.82,2840,"Stone IPA",215
+231,"European Amber Lager",330,2.82,2020,Maudite,299
+232,"Light Lager",330,3.31,2850,"Arrogant Bastard Ale",210
+233,Porter,750,10.61,8090,"Celebrator Doppelbock",477
+234,"Scottish And Irish Ale",750,0.27,1230,"Oaked Arrogant Bastard Ale",477
+235,"Amber Hybrid Beer",1000,12.05,1530,"Brooklyn Black",187
+236,"Light Hybrid Beer",500,1.98,1280,"Chocolate St",23
+237,"English Brown Ale",750,0.33,1520,"Arrogant Bastard Ale",59
+238,"Wood-aged Beer",5000,8.88,2850,"Founders Breakfast Stout",167
+239,"Merican Ale",1000,6.6,1530,"Double Bastard Ale",251
+240,"Strong Ale",750,4.31,2090,"Edmund Fitzgerald Porter",296
+241,Pilsner,1000,12.28,1530,"Founders Breakfast Stout",372
+242,"Strong Ale",750,10.55,1840,"Racer 5 India Pale Ale, Bear Republic Bre",393
+243,"Vegetable Beer",330,3.06,1220,"Samuel Smith’s Imperial IPA",48
+244,"India Pale Ale",500,10.15,1530,Duvel,337
+245,Pilsner,1000,5.18,1840,"Weihenstephaner Hefeweissbier",231
+246,"Wood-aged Beer",5000,10.78,1050,"Bell’s Expedition",260
+247,"India Pale Ale",750,10.85,1880,"Stone IPA",20
+248,"Dark Lager",5000,1.62,2090,"Alpha King Pale Ale",220
+249,"Strong Ale",750,12.15,590,"Sublimely Self-Righteous Ale",122
+250,"India Pale Ale",500,5.48,1520,"Weihenstephaner Hefeweissbier",20
+251,"Light Lager",750,12.43,520,"Trappistes Rochefort 10",155
+252,"German Wheat And Rye Beer",750,2.66,1250,"St. Bernardus Abt 12",178
+253,Stout,5000,5.4,1850,"Bourbon County Stout",105
+254,"India Pale Ale",500,11.66,8080,"Nugget Nectar",463
+255,"Belgian And French Ale",750,0.02,1850,"Founders Kentucky Breakfast",353
+256,Stout,330,7.64,1820,"Arrogant Bastard Ale",378
+257,"English Brown Ale",5000,4.56,1890,"Edmund Fitzgerald Porter",28
+258,"Sour Ale",1000,9.11,8020,"Two Hearted Ale",274
+259,"India Pale Ale",750,6.85,2850,"Alpha King Pale Ale",214
+260,"Wood-aged Beer",500,7.37,1840,Maudite,408
+261,"Dark Lager",1000,6.5,1280,"Alpha King Pale Ale",430
+262,"Dark Lager",330,5.25,1290,Duvel,495
+263,"English Brown Ale",5000,2.26,2830,"Samuel Smith’s Oatmeal Stout",246
+264,"Amber Hybrid Beer",330,10.95,1840,"Trois Pistoles",297
+265,"Belgian Strong Ale",330,10.98,1090,"Racer 5 India Pale Ale, Bear Republic Bre",19
+266,Porter,330,3.22,1550,"HopSlam Ale",204
+267,"Belgian And French Ale",750,10.45,1890,"Alpha King Pale Ale",267
+268,"Scottish And Irish Ale",500,8.65,1080,"Pliny The Elder",379
+269,"Light Hybrid Beer",500,10.45,2050,"Stone Imperial Russian Stout",378
+270,"German Wheat And Rye Beer",5000,8.61,1030,"Ten FIDY",177
+271,"Amber Hybrid Beer",1000,7.98,1820,"Nugget Nectar",42
+272,"German Wheat And Rye Beer",1000,10.66,1250,"Péché Mortel",127
+273,"Belgian Strong Ale",1000,8.7,2090,"Founders Kentucky Breakfast",119
+274,Porter,750,7.42,1240,"Sierra Nevada Celebration Ale",251
+275,"Fruit Beer",750,6.28,590,"Stone Imperial Russian Stout",355
+276,"Vegetable Beer",750,9.16,2830,"Stone Imperial Russian Stout",63
+277,"Fruit Beer",330,12.03,580,Hennepin,404
+278,"Scottish And Irish Ale",5000,7.89,8050,Maudite,43
+279,"English Pale Ale",500,7.68,1540,"Kirin Inchiban",367
+280,"India Pale Ale",750,9.7,2080,"Chimay Grande Réserve",152
+281,"Dark Lager",500,0.04,1850,"Ruination IPA",278
+282,"Amber Hybrid Beer",500,2.96,1080,"Two Hearted Ale",319
+283,"Sour Ale",750,1.45,520,Maudite,382
+284,"Strong Ale",750,9.19,2830,"Double Bastard Ale",124
+285,"Light Lager",330,11.53,1050,"Westmalle Trappist Tripel",322
+286,Stout,500,11.38,2040,"Sublimely Self-Righteous Ale",59
+287,"Light Lager",5000,7.7,1580,"Samuel Smith’s Oatmeal Stout",482
+288,Porter,330,4.56,1090,"Storm King Stout",363
+289,"Amber Hybrid Beer",750,10.01,1580,"Chocolate St",442
+290,"Sour Ale",500,2.62,550,"Chocolate St",246
+291,"Merican Ale",330,1.99,1820,"Chocolate St",241
+292,"Belgian And French Ale",5000,12.51,1830,"Trois Pistoles",171
+293,"Vegetable Beer",1000,11.06,2820,"St. Bernardus Abt 12",417
+294,"Light Hybrid Beer",500,11.44,2030,"Westmalle Trappist Tripel",157
+295,"Vegetable Beer",5000,0.92,2080,"Delirium Noctorum",305
+296,"Merican Ale",500,10.62,2050,"Bourbon County Stout",108
+297,"Merican Ale",750,2.94,2080,"Stone Imperial Russian Stout",228
+298,"Light Lager",330,4.82,8040,"Nugget Nectar",316
+299,"Light Hybrid Beer",1000,10.85,1080,"Hercules Double IPA",188
+300,"Amber Hybrid Beer",5000,9.15,1290,"Sierra Nevada Celebration Ale",500
+301,"Belgian And French Ale",500,9.39,1220,"Hop Rod Rye",484
+302,"Light Hybrid Beer",750,8.76,1240,"Schneider Aventinus",416
+303,Pilsner,500,7.5,8040,Maudite,200
+304,"Belgian And French Ale",1000,3.61,1820,"90 Minute IPA",330
+305,Pilsner,750,6.47,1240,"Double Bastard Ale",111
+306,"Merican Ale",500,7.14,1230,"Yeti Imperial Stout",168
+307,"Amber Hybrid Beer",330,0.05,1080,"Weihenstephaner Hefeweissbier",257
+308,"Dark Lager",330,12.35,1290,"Westmalle Trappist Tripel",59
+309,"Belgian Strong Ale",500,1.28,1090,"Ruination IPA",378
+310,"European Amber Lager",330,5.78,2850,"Chimay Grande Réserve",67
+311,Stout,500,3.2,8090,"Weihenstephaner Hefeweissbier",447
+312,Smoke-flavored,1000,8.33,2090,"Schneider Aventinus",466
+313,"Merican Ale",750,11.92,1850,Maharaj,439
+314,"India Pale Ale",1000,8.82,2890,"Shakespeare Oatmeal",255
+315,Bock,330,7.62,1540,"Brooklyn Black",302
+316,"Fruit Beer",330,9.39,590,"Chimay Grande Réserve",226
+317,Smoke-flavored,500,8.5,1830,"Oak Aged Yeti Imperial Stout",347
+318,"Belgian Strong Ale",750,9.6,2040,"Alpha King Pale Ale",138
+319,Pilsner,1000,3.12,1050,"Péché Mortel",276
+320,Smoke-flavored,1000,6.94,550,"Bourbon County Stout",2
+321,"English Pale Ale",750,9.6,1280,"Shakespeare Oatmeal",406
+322,"India Pale Ale",5000,4.71,2020,"Oaked Arrogant Bastard Ale",351
+323,"Light Hybrid Beer",1000,3.27,1880,"Dreadnaught IPA",62
+324,Porter,330,11.36,1540,"Weihenstephaner Hefeweissbier",102
+325,"Dark Lager",1000,1.78,1880,"Alpha King Pale Ale",239
+326,"Vegetable Beer",330,2.14,8030,Hennepin,223
+327,Smoke-flavored,750,10.36,1040,"Ruination IPA",178
+328,"Vegetable Beer",500,3.17,1590,"Péché Mortel",443
+329,Bock,330,4.52,8030,"Delirium Tremens",455
+330,"Light Hybrid Beer",1000,12.19,1050,"Stone Imperial Russian Stout",107
+331,"European Amber Lager",500,9.71,1020,"Two Hearted Ale",488
+332,"Strong Ale",1000,8.38,8030,"Orval Trappist Ale",417
+333,Smoke-flavored,330,11.67,2080,"Double Bastard Ale",333
+334,"European Amber Lager",330,7.77,1280,"Weihenstephaner Hefeweissbier",327
+335,"Light Lager",750,7.02,1590,"Chocolate St",369
+336,"Sour Ale",1000,2.58,1020,"Arrogant Bastard Ale",331
+337,"Strong Ale",5000,3.73,8090,Maharaj,462
+338,"Scottish And Irish Ale",500,7.66,580,"Westmalle Trappist Tripel",329
+339,"Merican Ale",5000,2.0,8020,"Oak Aged Yeti Imperial Stout",165
+340,"Light Lager",1000,1.14,1040,"Double Bastard Ale",78
+341,"Light Lager",500,5.87,1550,Maharaj,94
+342,"English Brown Ale",1000,9.88,1840,"Hercules Double IPA",424
+343,"English Pale Ale",330,9.33,520,"HopSlam Ale",350
+344,"European Amber Lager",500,6.93,1580,"Dreadnaught IPA",215
+345,"Belgian And French Ale",1000,0.63,1280,"Trappistes Rochefort 10",326
+346,Bock,1000,5.07,1250,"Racer 5 India Pale Ale, Bear Republic Bre",144
+347,"India Pale Ale",1000,1.39,2840,"Ten FIDY",192
+348,"Sour Ale",750,7.93,2050,"Péché Mortel",43
+349,"Fruit Beer",1000,4.88,1240,"Arrogant Bastard Ale",421
+350,"Light Hybrid Beer",500,4.58,8020,"Ten FIDY",228
+351,"Strong Ale",750,0.84,1230,"Alpha King Pale Ale",121
+352,Stout,500,5.68,2830,"Trappistes Rochefort 8",403
+353,"Scottish And Irish Ale",5000,7.93,1050,"Bell’s Expedition",120
+354,"Fruit Beer",750,3.84,590,"Trois Pistoles",57
+355,"Vegetable Beer",5000,4.67,2850,"Sapporo Premium",379
+356,"Merican Ale",500,1.54,1820,"Sublimely Self-Righteous Ale",84
+357,Stout,1000,4.0,540,Maudite,145
+358,"English Brown Ale",1000,2.92,1530,"Celebrator Doppelbock",52
+359,"Dark Lager",1000,3.89,550,Duvel,229
+360,"Light Lager",5000,7.66,520,"Oak Aged Yeti Imperial Stout",388
+361,Bock,5000,5.03,2050,"Pliny The Elder",68
+362,"Amber Hybrid Beer",5000,7.06,8020,"Alpha King Pale Ale",327
+363,Stout,750,2.37,1090,"La Fin Du Monde",414
+364,"Strong Ale",5000,9.89,1250,"Oaked Arrogant Bastard Ale",320
+365,"English Pale Ale",1000,0.21,1840,"Hop Rod Rye",433
+366,"Strong Ale",500,0.48,8050,"Arrogant Bastard Ale",476
+367,"Belgian And French Ale",5000,3.37,1050,"Chocolate St",240
+368,"Merican Ale",750,3.39,1540,"Racer 5 India Pale Ale, Bear Republic Bre",455
+369,Bock,1000,12.1,1080,"Schneider Aventinus",198
+370,"Vegetable Beer",500,11.39,2850,"Shakespeare Oatmeal",14
+371,"Sour Ale",5000,10.89,2820,"Chocolate St",307
+372,Porter,5000,0.46,550,"Ten FIDY",383
+373,Porter,750,8.04,520,"Bell’s Expedition",213
+374,"European Amber Lager",1000,12.8,1550,"Sierra Nevada Celebration Ale",483
+375,Bock,330,3.94,2840,"Yeti Imperial Stout",198
+376,"Strong Ale",500,9.21,8030,"Celebrator Doppelbock",343
+377,"India Pale Ale",1000,3.16,2850,"Bell’s Expedition",271
+378,"Belgian Strong Ale",750,10.26,1230,"Westmalle Trappist Tripel",176
+379,"Light Hybrid Beer",330,2.65,2820,"Delirium Tremens",254
+380,"Vegetable Beer",330,10.91,1220,"Double Bastard Ale",472
+381,"Light Hybrid Beer",330,8.75,8030,"Stone IPA",419
+382,"Light Hybrid Beer",750,9.33,2080,"Sierra Nevada Bigfoot Barleywine Style Ale",111
+383,Pilsner,750,7.09,8020,"St. Bernardus Abt 12",447
+384,"Amber Hybrid Beer",500,11.92,1890,"Edmund Fitzgerald Porter",424
+385,"English Brown Ale",500,3.56,8030,"Westmalle Trappist Tripel",190
+386,"Amber Hybrid Beer",500,2.41,520,"Shakespeare Oatmeal",363
+387,"English Brown Ale",1000,4.85,2880,"Sublimely Self-Righteous Ale",487
+388,"Dark Lager",1000,7.27,2850,"Founders Kentucky Breakfast",108
+389,Stout,750,12.14,2890,"Hop Rod Rye",421
+390,"European Amber Lager",5000,1.95,2030,"Schneider Aventinus",268
+391,"Vegetable Beer",500,0.62,8040,"Weihenstephaner Hefeweissbier",457
+392,"Wood-aged Beer",1000,6.89,1030,"Brooklyn Black",363
+393,Pilsner,330,10.85,2090,"Samuel Smith’s Imperial IPA",137
+394,"Scottish And Irish Ale",1000,12.86,1080,"Sublimely Self-Righteous Ale",182
+395,"Sour Ale",330,2.49,8040,"Samuel Smith’s Oatmeal Stout",20
+396,"Light Hybrid Beer",330,11.77,2020,Duvel,133
+397,"Dark Lager",1000,9.08,1540,"Brooklyn Black",218
+398,"Dark Lager",500,12.46,1050,"Oaked Arrogant Bastard Ale",187
+399,"Wood-aged Beer",500,5.85,1040,"Stone Imperial Russian Stout",266
+400,"Merican Ale",5000,9.89,1520,"Sublimely Self-Righteous Ale",262
+401,"Light Lager",1000,11.9,2820,"Shakespeare Oatmeal",194
+402,"Belgian And French Ale",5000,2.09,8030,"Two Hearted Ale",198
+403,"Light Hybrid Beer",750,6.82,2090,"Kirin Inchiban",308
+404,"Belgian And French Ale",750,12.93,1550,"Bell’s Expedition",220
+405,"European Amber Lager",330,6.4,8090,"Trois Pistoles",121
+406,"Amber Hybrid Beer",1000,3.33,2090,"Bell’s Expedition",119
+407,"Light Lager",5000,7.54,1030,"Sierra Nevada Celebration Ale",496
+408,"Strong Ale",1000,0.3,2040,"Dreadnaught IPA",294
+409,"Fruit Beer",750,3.9,8050,"Oaked Arrogant Bastard Ale",124
+410,Stout,5000,9.83,540,"Shakespeare Oatmeal",497
+411,"Amber Hybrid Beer",750,4.64,1020,"Péché Mortel",400
+412,"Fruit Beer",750,6.47,2840,"Founders Kentucky Breakfast",260
+413,"Amber Hybrid Beer",5000,12.16,1880,"Westmalle Trappist Tripel",403
+414,"Vegetable Beer",5000,12.33,1080,"Delirium Noctorum",55
+415,"Wood-aged Beer",5000,10.45,1840,"Trappistes Rochefort 10",459
+416,"English Pale Ale",330,11.2,1290,"Shakespeare Oatmeal",234
+417,Stout,330,11.91,1830,"Westmalle Trappist Tripel",456
+418,"Strong Ale",1000,2.94,2830,"Double Bastard Ale",254
+419,"Wood-aged Beer",750,5.17,1050,"Trois Pistoles",181
+420,"Vegetable Beer",1000,9.23,8020,"Chimay Grande Réserve",182
+421,"Light Hybrid Beer",750,9.11,590,"Trappistes Rochefort 10",159
+422,"English Pale Ale",330,5.1,8050,"Shakespeare Oatmeal",80
+423,"German Wheat And Rye Beer",1000,0.1,550,"La Fin Du Monde",376
+424,Pilsner,750,0.61,1080,"Stone IPA",177
+425,Pilsner,330,12.06,1030,"Chocolate St",394
+426,"Belgian Strong Ale",750,3.09,2840,"90 Minute IPA",423
+427,Stout,5000,9.47,8020,"Bourbon County Stout",246
+428,"Amber Hybrid Beer",5000,0.34,1830,"Stone IPA",149
+429,"Strong Ale",5000,2.97,1830,"Shakespeare Oatmeal",292
+430,"India Pale Ale",500,8.75,1550,"Dreadnaught IPA",432
+431,"European Amber Lager",750,5.68,1230,"Alpha King Pale Ale",314
+432,"Light Lager",750,5.99,1580,"Double Bastard Ale",166
+433,Porter,330,4.92,1080,"Samuel Smith’s Oatmeal Stout",440
+434,"European Amber Lager",750,0.8,1230,"Schneider Aventinus",227
+435,"Light Hybrid Beer",5000,5.25,1280,"Racer 5 India Pale Ale, Bear Republic Bre",136
+436,"India Pale Ale",5000,6.32,1820,"Schneider Aventinus",189
+437,"German Wheat And Rye Beer",330,12.13,1580,"Pliny The Elder",281
+438,"German Wheat And Rye Beer",330,1.79,550,"Delirium Noctorum",322
+439,Porter,330,3.58,8030,"Ruination IPA",415
+440,"Fruit Beer",750,6.2,1240,"Kirin Inchiban",305
+441,"Light Hybrid Beer",500,0.51,580,"Sierra Nevada Bigfoot Barleywine Style Ale",132
+442,"Light Hybrid Beer",330,11.25,8030,"Samuel Smith’s Oatmeal Stout",344
+443,"Light Lager",330,10.47,1290,Duvel,272
+444,"German Wheat And Rye Beer",330,10.08,590,"Founders Breakfast Stout",157
+445,Bock,750,3.31,2030,"Yeti Imperial Stout",446
+446,Porter,1000,6.34,1850,"Old Rasputin Russian Imperial Stout",472
+447,Pilsner,750,12.24,520,"Trappistes Rochefort 8",53
+448,"Dark Lager",750,12.15,1590,"Chocolate St",232
+449,"English Brown Ale",750,4.78,580,"Schneider Aventinus",183
+450,"Wood-aged Beer",500,0.21,1030,"Westmalle Trappist Tripel",32
+451,Porter,1000,5.25,8030,"Kirin Inchiban",25
+452,"Dark Lager",1000,4.72,1290,"Ten FIDY",358
+453,"Amber Hybrid Beer",750,2.11,1580,"Stone Imperial Russian Stout",315
+454,"Belgian And French Ale",5000,6.85,2040,"Brooklyn Black",347
+455,"German Wheat And Rye Beer",750,11.7,1240,"Alpha King Pale Ale",60
+456,"Merican Ale",5000,2.56,530,"Hercules Double IPA",115
+457,"Sour Ale",5000,4.89,2020,"Celebrator Doppelbock",418
+458,"India Pale Ale",330,11.72,1050,"Sublimely Self-Righteous Ale",335
+459,Bock,5000,8.37,520,"Delirium Noctorum",101
+460,"English Brown Ale",5000,5.52,2830,"Hercules Double IPA",446
+461,"Vegetable Beer",750,9.71,8090,"Stone Imperial Russian Stout",342
+462,"European Amber Lager",5000,10.83,540,"Two Hearted Ale",269
+463,Bock,1000,3.95,1530,"Pliny The Elder",79
+464,Smoke-flavored,750,2.3,1290,"Chimay Grande Réserve",259
+465,"Sour Ale",5000,7.35,1530,"Chocolate St",476
+466,"German Wheat And Rye Beer",1000,12.32,1050,"Storm King Stout",129
+467,Bock,750,5.93,8040,"La Fin Du Monde",473
+468,"English Brown Ale",500,4.48,8080,"Nugget Nectar",163
+469,"English Brown Ale",500,0.22,1830,"Stone IPA",465
+470,"Light Hybrid Beer",750,11.1,1580,"HopSlam Ale",136
+471,Stout,330,1.36,590,"Trois Pistoles",310
+472,Porter,750,8.21,1590,"Weihenstephaner Hefeweissbier",353
+473,"European Amber Lager",750,2.1,1530,Hennepin,484
+474,"English Pale Ale",330,10.46,2880,"Trappistes Rochefort 10",234
+475,Bock,1000,4.62,1850,"Hercules Double IPA",317
+476,"Light Hybrid Beer",500,3.04,1280,"Sapporo Premium",228
+477,"Amber Hybrid Beer",5000,9.57,1040,"Edmund Fitzgerald Porter",330
+478,Smoke-flavored,1000,3.83,530,"St. Bernardus Abt 12",395
+479,"Amber Hybrid Beer",330,2.34,2880,"Edmund Fitzgerald Porter",203
+480,Bock,5000,7.02,1550,"Oak Aged Yeti Imperial Stout",449
+481,"Amber Hybrid Beer",5000,4.18,2880,"HopSlam Ale",351
+482,Stout,750,2.39,520,"Trappistes Rochefort 10",414
+483,"Wood-aged Beer",750,4.69,1030,Maudite,265
+484,"Merican Ale",750,11.14,1080,"Schneider Aventinus",183
+485,"Wood-aged Beer",500,11.26,1290,"Ten FIDY",484
+486,"Light Lager",330,0.16,1550,"Stone Imperial Russian Stout",50
+487,Pilsner,750,11.71,1830,"Stone Imperial Russian Stout",458
+488,"Strong Ale",500,8.99,1080,"Chocolate St",438
+489,Smoke-flavored,750,5.46,1280,"Weihenstephaner Hefeweissbier",239
+490,"Vegetable Beer",500,3.36,1540,"Oaked Arrogant Bastard Ale",56
+491,"German Wheat And Rye Beer",1000,7.21,2890,"Delirium Noctorum",33
+492,"Light Lager",5000,3.68,8020,"Oak Aged Yeti Imperial Stout",115
+493,"Strong Ale",500,10.89,1050,"Hop Rod Rye",327
+494,"Merican Ale",1000,3.44,8090,"Sierra Nevada Celebration Ale",360
+495,"Light Lager",500,5.52,2880,"St. Bernardus Abt 12",128
+496,Stout,500,10.26,2830,"Edmund Fitzgerald Porter",243
+497,Porter,5000,1.41,1220,"Storm King Stout",55
+498,"Light Hybrid Beer",330,10.57,1840,"Delirium Noctorum",480
+499,"Belgian And French Ale",5000,4.28,2050,Hennepin,154
+500,Smoke-flavored,500,1.59,1830,"HopSlam Ale",75
+501,"Scottish And Irish Ale",500,11.67,1890,"Racer 5 India Pale Ale, Bear Republic Bre",228
+502,Porter,1000,1.69,2090,"Founders Breakfast Stout",341
+503,"Strong Ale",330,9.03,1290,"Orval Trappist Ale",390
+504,"Scottish And Irish Ale",1000,0.09,1590,"HopSlam Ale",104
+505,"Strong Ale",5000,2.87,1240,"Arrogant Bastard Ale",182
+506,"India Pale Ale",500,6.66,1240,"Two Hearted Ale",323
+507,"Light Hybrid Beer",750,11.66,1030,"Hop Rod Rye",87
+508,"Belgian Strong Ale",1000,2.55,1840,"Sierra Nevada Bigfoot Barleywine Style Ale",138
+509,Porter,330,5.95,1540,Maudite,182
+510,"Merican Ale",5000,2.93,1890,"Oak Aged Yeti Imperial Stout",499
+511,"Merican Ale",750,5.87,2850,"Bourbon County Stout",14
+512,Smoke-flavored,500,4.02,2040,"Delirium Noctorum",382
+513,"Amber Hybrid Beer",330,7.81,520,"Westmalle Trappist Tripel",155
+514,"Light Hybrid Beer",1000,4.99,1220,"Bell’s Expedition",182
+515,"English Pale Ale",500,1.32,2080,"Ten FIDY",171
+516,"Fruit Beer",1000,1.17,8040,Maharaj,8
+517,"English Brown Ale",500,2.97,2880,"Nugget Nectar",106
+518,"German Wheat And Rye Beer",1000,10.35,8090,"Samuel Smith’s Oatmeal Stout",422
+519,Stout,750,0.12,8050,"HopSlam Ale",350
+520,Porter,1000,12.04,1530,"Samuel Smith’s Oatmeal Stout",485
+521,"Vegetable Beer",500,4.35,1090,"Dreadnaught IPA",15
+522,Smoke-flavored,1000,3.28,2850,"Shakespeare Oatmeal",262
+523,"English Pale Ale",1000,9.98,1230,Hennepin,406
+524,"European Amber Lager",1000,11.92,1230,"Péché Mortel",9
+525,"Fruit Beer",330,8.49,1820,"Stone IPA",21
+526,"Strong Ale",5000,11.98,1540,"Trappistes Rochefort 8",76
+527,"Light Hybrid Beer",5000,6.43,1530,Maharaj,264
+528,"Sour Ale",750,12.4,580,"Sierra Nevada Bigfoot Barleywine Style Ale",498
+529,Bock,330,0.83,1050,"Weihenstephaner Hefeweissbier",254
+530,"Scottish And Irish Ale",750,0.99,1540,"Kirin Inchiban",193
+531,"Amber Hybrid Beer",330,5.29,1850,"Arrogant Bastard Ale",457
+532,"Light Hybrid Beer",1000,3.56,1590,"Pliny The Elder",112
+533,"Sour Ale",500,1.26,1880,"La Fin Du Monde",261
+534,"Fruit Beer",500,3.01,1020,"Double Bastard Ale",25
+535,Stout,5000,5.24,1020,"Pliny The Elder",33
+536,Pilsner,750,8.1,1830,"Péché Mortel",271
+537,"India Pale Ale",1000,9.17,1240,"Stone Imperial Russian Stout",479
+538,"English Pale Ale",1000,3.17,520,"Alpha King Pale Ale",187
+539,"Belgian Strong Ale",330,8.53,590,"Oak Aged Yeti Imperial Stout",171
+540,"Belgian And French Ale",330,4.28,1230,Duvel,155
+541,"Wood-aged Beer",330,9.94,2030,"Nugget Nectar",483
+542,"Wood-aged Beer",5000,3.31,8050,"Schneider Aventinus",259
+543,"Strong Ale",500,2.92,1530,Duvel,315
+544,Bock,5000,5.93,1220,"Trappistes Rochefort 10",239
+545,"English Pale Ale",5000,1.0,580,"Double Bastard Ale",125
+546,"Amber Hybrid Beer",750,6.76,1020,"St. Bernardus Abt 12",29
+547,Porter,1000,12.13,1290,"Hercules Double IPA",22
+548,"English Pale Ale",500,2.32,540,"Celebrator Doppelbock",150
+549,"Amber Hybrid Beer",5000,3.99,8020,"Founders Kentucky Breakfast",146
+550,Smoke-flavored,500,9.08,8030,"Sierra Nevada Celebration Ale",405
+551,"Merican Ale",5000,8.8,8040,"Yeti Imperial Stout",395
+552,"Strong Ale",5000,6.6,1890,"Founders Breakfast Stout",291
+553,"German Wheat And Rye Beer",500,11.48,530,Maharaj,318
+554,Pilsner,330,12.11,1250,"La Fin Du Monde",450
+555,Porter,330,3.7,1080,"Hop Rod Rye",91
+556,"Scottish And Irish Ale",330,6.23,8020,"Péché Mortel",25
+557,Porter,750,12.83,1050,"Trappistes Rochefort 8",165
+558,"Fruit Beer",330,4.59,1280,"Brooklyn Black",99
+559,"Light Lager",330,4.33,1030,"Sierra Nevada Bigfoot Barleywine Style Ale",90
+560,Stout,500,2.73,1530,"Samuel Smith’s Imperial IPA",290
+561,"European Amber Lager",330,4.3,1540,"Westmalle Trappist Tripel",69
+562,"European Amber Lager",5000,8.56,530,"Stone IPA",243
+563,"Strong Ale",750,2.35,1290,"Stone IPA",283
+564,Smoke-flavored,750,1.89,2850,"Weihenstephaner Hefeweissbier",119
+565,Bock,5000,8.26,1020,"Racer 5 India Pale Ale, Bear Republic Bre",465
+566,"Light Lager",5000,12.39,2830,"Oak Aged Yeti Imperial Stout",262
+567,"Belgian And French Ale",5000,6.68,530,"HopSlam Ale",412
+568,"Dark Lager",750,9.77,1020,"Dreadnaught IPA",161
+569,"English Brown Ale",500,0.23,1280,"Nugget Nectar",173
+570,"Dark Lager",5000,5.02,590,"Samuel Smith’s Oatmeal Stout",237
+571,"Vegetable Beer",750,12.51,1890,"Péché Mortel",372
+572,"Light Lager",750,10.05,530,"Nugget Nectar",469
+573,"European Amber Lager",1000,0.55,1530,"St. Bernardus Abt 12",62
+574,"German Wheat And Rye Beer",500,10.21,1890,Hennepin,426
+575,Pilsner,1000,6.53,530,"Weihenstephaner Hefeweissbier",37
+576,"Strong Ale",5000,10.24,8050,"Racer 5 India Pale Ale, Bear Republic Bre",346
+577,Pilsner,330,6.46,1830,"Old Rasputin Russian Imperial Stout",147
+578,"Dark Lager",330,11.92,550,"Oak Aged Yeti Imperial Stout",131
+579,"English Pale Ale",330,2.36,1240,"Nugget Nectar",313
+580,"Fruit Beer",1000,6.33,530,"Delirium Tremens",75
+581,"German Wheat And Rye Beer",330,9.73,1580,"Oaked Arrogant Bastard Ale",480
+582,Porter,500,7.5,8090,"Hop Rod Rye",178
+583,"India Pale Ale",1000,5.4,1540,"Weihenstephaner Hefeweissbier",73
+584,"India Pale Ale",330,0.87,1880,"Celebrator Doppelbock",179
+585,Bock,500,1.99,1020,"Bell’s Expedition",491
+586,"Sour Ale",5000,10.06,1890,"Storm King Stout",432
+587,Pilsner,1000,1.69,1230,"Delirium Noctorum",418
+588,Bock,1000,0.91,530,"90 Minute IPA",77
+589,"German Wheat And Rye Beer",330,0.07,1080,"Bourbon County Stout",96
+590,"India Pale Ale",1000,5.48,2880,"Founders Breakfast Stout",453
+591,"Wood-aged Beer",5000,10.08,2830,"Brooklyn Black",334
+592,"German Wheat And Rye Beer",330,7.78,2880,"La Fin Du Monde",249
+593,Bock,750,4.27,2840,"Delirium Tremens",71
+594,"Wood-aged Beer",1000,10.78,2830,"Trois Pistoles",371
+595,"India Pale Ale",750,3.93,1080,"Péché Mortel",446
+596,"Fruit Beer",500,10.75,1290,"Two Hearted Ale",73
+597,"India Pale Ale",5000,1.62,2890,"Double Bastard Ale",380
+598,"Light Lager",500,2.62,1290,"Trappistes Rochefort 8",379
+599,"Dark Lager",500,8.38,1590,"Double Bastard Ale",259
+600,"Vegetable Beer",1000,3.96,1830,"Sierra Nevada Bigfoot Barleywine Style Ale",404
+601,Stout,750,2.17,1530,Duvel,164
+602,"Wood-aged Beer",1000,8.03,1230,"Stone Imperial Russian Stout",462
+603,"Dark Lager",500,5.88,2090,"Péché Mortel",373
+604,"Sour Ale",750,10.26,8020,"Brooklyn Black",259
+605,"German Wheat And Rye Beer",1000,11.82,1830,Maharaj,246
+606,"Fruit Beer",750,10.64,1050,"Samuel Smith’s Oatmeal Stout",22
+607,"Sour Ale",330,8.74,8080,"Arrogant Bastard Ale",102
+608,"Light Hybrid Beer",500,11.66,1050,"Celebrator Doppelbock",350
+609,"English Pale Ale",750,8.93,8080,"Ruination IPA",485
+610,"English Pale Ale",500,9.34,2840,"Storm King Stout",123
+611,"European Amber Lager",750,6.59,1030,Maudite,293
+612,"Dark Lager",1000,11.29,1590,"Celebrator Doppelbock",367
+613,"Dark Lager",5000,6.36,550,"Péché Mortel",393
+614,"Merican Ale",5000,1.67,2020,"Founders Kentucky Breakfast",89
+615,"India Pale Ale",1000,2.73,1050,"Weihenstephaner Hefeweissbier",351
+616,"Strong Ale",750,0.8,1840,"Delirium Tremens",196
+617,"Dark Lager",330,10.88,1030,Duvel,96
+618,"Strong Ale",500,8.26,1220,"Racer 5 India Pale Ale, Bear Republic Bre",285
+619,"Fruit Beer",750,5.75,1540,Maharaj,325
+620,"German Wheat And Rye Beer",330,0.71,2030,"Trappistes Rochefort 8",282
+621,"Light Hybrid Beer",1000,1.22,2020,"Péché Mortel",179
+622,"English Brown Ale",5000,3.63,1030,"Ruination IPA",206
+623,Smoke-flavored,750,3.3,550,"Delirium Noctorum",494
+624,"Scottish And Irish Ale",330,3.17,2840,"Old Rasputin Russian Imperial Stout",199
+625,Porter,500,6.16,1590,Maudite,292
+626,"Belgian And French Ale",750,3.97,1220,"Weihenstephaner Hefeweissbier",206
+627,"Merican Ale",1000,5.97,1250,"Bourbon County Stout",451
+628,"Belgian Strong Ale",5000,11.15,8090,"Trappistes Rochefort 8",149
+629,Stout,750,1.72,1250,"Stone IPA",249
+630,"German Wheat And Rye Beer",500,8.3,1090,"Westmalle Trappist Tripel",113
+631,"Belgian And French Ale",1000,6.95,8020,"Nugget Nectar",462
+632,"Vegetable Beer",1000,2.33,1290,"Sierra Nevada Bigfoot Barleywine Style Ale",409
+633,Smoke-flavored,750,6.7,1590,"Westmalle Trappist Tripel",36
+634,"European Amber Lager",750,3.65,1290,"Old Rasputin Russian Imperial Stout",26
+635,"English Brown Ale",5000,12.62,530,"Péché Mortel",40
+636,"Belgian Strong Ale",330,1.39,2830,"Dreadnaught IPA",488
+637,"Vegetable Beer",750,5.8,2840,"Founders Kentucky Breakfast",390
+638,Pilsner,1000,6.06,1550,"Schneider Aventinus",478
+639,"Sour Ale",5000,9.2,8080,"Trappistes Rochefort 10",349
+640,"English Pale Ale",750,8.2,1530,"Chimay Grande Réserve",72
+641,"Fruit Beer",750,1.72,2890,"Oaked Arrogant Bastard Ale",257
+642,"English Pale Ale",5000,9.59,1530,"Sapporo Premium",393
+643,"Dark Lager",330,5.99,2080,"Yeti Imperial Stout",295
+644,"Light Lager",330,2.18,2850,Hennepin,139
+645,"German Wheat And Rye Beer",1000,10.95,1890,"Samuel Smith’s Imperial IPA",468
+646,"Belgian And French Ale",1000,3.53,1030,"Arrogant Bastard Ale",469
+647,"Vegetable Beer",330,6.85,2890,Hennepin,473
+648,"Fruit Beer",750,0.23,1590,"Péché Mortel",227
+649,"Dark Lager",5000,12.32,1830,"Hercules Double IPA",241
+650,Pilsner,5000,8.39,1590,"Trappistes Rochefort 10",342
+651,"Scottish And Irish Ale",330,10.68,1050,"Bourbon County Stout",359
+652,Smoke-flavored,500,11.68,2820,"Kirin Inchiban",440
+653,"Scottish And Irish Ale",750,9.74,1250,"Samuel Smith’s Imperial IPA",317
+654,"Wood-aged Beer",500,4.27,2830,"Dreadnaught IPA",327
+655,Smoke-flavored,750,0.12,590,"Nugget Nectar",186
+656,"Light Lager",330,6.83,1240,"Racer 5 India Pale Ale, Bear Republic Bre",10
+657,"Amber Hybrid Beer",330,5.37,1520,"Westmalle Trappist Tripel",465
+658,"German Wheat And Rye Beer",1000,11.91,1030,"Kirin Inchiban",179
+659,"Strong Ale",750,12.67,1580,"Schneider Aventinus",52
+660,Pilsner,1000,1.36,1890,"Hop Rod Rye",115
+661,"Belgian Strong Ale",1000,3.94,1090,"Oak Aged Yeti Imperial Stout",151
+662,"Scottish And Irish Ale",500,10.19,8040,"Samuel Smith’s Imperial IPA",232
+663,"Fruit Beer",500,3.33,2830,"Oak Aged Yeti Imperial Stout",77
+664,"Belgian Strong Ale",1000,5.93,2020,"Storm King Stout",348
+665,"Scottish And Irish Ale",330,4.5,1220,"Stone IPA",170
+666,Pilsner,500,5.85,1080,"Edmund Fitzgerald Porter",483
+667,Porter,5000,12.23,1550,"Storm King Stout",127
+668,"Strong Ale",330,0.28,8050,"Stone IPA",161
+669,"Scottish And Irish Ale",1000,12.03,2020,"Storm King Stout",84
+670,"European Amber Lager",750,1.53,1850,"Sublimely Self-Righteous Ale",96
+671,"Light Hybrid Beer",500,9.89,540,"Racer 5 India Pale Ale, Bear Republic Bre",108
+672,"English Brown Ale",5000,9.11,8030,"Chocolate St",377
+673,"Amber Hybrid Beer",330,2.41,1080,"Bell’s Expedition",434
+674,"Sour Ale",5000,12.85,2090,"Chimay Grande Réserve",322
+675,Stout,750,5.3,1880,"Nugget Nectar",457
+676,"Wood-aged Beer",330,7.91,8030,"St. Bernardus Abt 12",380
+677,"Belgian Strong Ale",5000,2.64,2850,"Bell’s Expedition",492
+678,"Dark Lager",5000,3.19,1030,"Delirium Noctorum",437
+679,"Fruit Beer",500,1.67,2820,"Ten FIDY",345
+680,"Strong Ale",5000,5.76,2030,"Schneider Aventinus",480
+681,"India Pale Ale",750,12.24,530,"Dreadnaught IPA",476
+682,"Strong Ale",500,9.1,8080,"Pliny The Elder",251
+683,"Vegetable Beer",1000,9.09,2850,"Sapporo Premium",401
+684,"English Pale Ale",330,7.67,1240,"Alpha King Pale Ale",232
+685,"Vegetable Beer",750,4.53,1040,"Sierra Nevada Bigfoot Barleywine Style Ale",191
+686,"English Brown Ale",330,10.58,2030,"Stone Imperial Russian Stout",133
+687,"Wood-aged Beer",5000,2.5,8020,"Yeti Imperial Stout",233
+688,"India Pale Ale",500,10.16,2050,"Samuel Smith’s Imperial IPA",462
+689,"Light Hybrid Beer",330,6.26,2840,"Celebrator Doppelbock",18
+690,Smoke-flavored,1000,11.45,580,"Westmalle Trappist Tripel",450
+691,"Belgian And French Ale",500,4.24,1590,"Double Bastard Ale",310
+692,"Light Hybrid Beer",330,7.39,1030,"Sierra Nevada Bigfoot Barleywine Style Ale",148
+693,"Belgian And French Ale",330,10.59,1820,"Brooklyn Black",252
+694,"Belgian And French Ale",5000,12.94,2840,"Kirin Inchiban",82
+695,"Amber Hybrid Beer",330,3.1,1520,"Weihenstephaner Hefeweissbier",317
+696,"European Amber Lager",330,2.17,2850,Duvel,170
+697,"Vegetable Beer",750,6.96,1530,"Kirin Inchiban",228
+698,"Strong Ale",330,5.04,1280,"St. Bernardus Abt 12",399
+699,Porter,750,9.88,1890,"Sublimely Self-Righteous Ale",50
+700,"Scottish And Irish Ale",500,12.13,1240,"Pliny The Elder",233
+701,"Light Hybrid Beer",330,2.93,1820,"St. Bernardus Abt 12",139
+702,Bock,750,8.47,2090,"Pliny The Elder",457
+703,"India Pale Ale",500,8.41,1520,"Alpha King Pale Ale",436
+704,"Vegetable Beer",330,3.61,2820,"Two Hearted Ale",404
+705,"Belgian Strong Ale",330,6.8,1890,Maudite,40
+706,"Light Lager",5000,11.46,1890,"Founders Breakfast Stout",302
+707,"Sour Ale",500,7.55,8040,"Celebrator Doppelbock",304
+708,"Sour Ale",5000,3.87,1020,"Trappistes Rochefort 8",128
+709,Stout,330,4.47,8020,"Sierra Nevada Bigfoot Barleywine Style Ale",317
+710,Bock,5000,0.22,1820,"Dreadnaught IPA",322
+711,Porter,500,6.88,1220,"Ruination IPA",101
+712,"English Brown Ale",1000,8.94,1540,"Sublimely Self-Righteous Ale",277
+713,Stout,330,2.88,1520,"Oak Aged Yeti Imperial Stout",183
+714,Bock,330,5.36,2890,"Weihenstephaner Hefeweissbier",262
+715,Pilsner,500,6.69,8030,"Stone IPA",106
+716,Pilsner,500,12.48,8020,"Alpha King Pale Ale",210
+717,"Vegetable Beer",330,11.18,1250,"Founders Kentucky Breakfast",2
+718,"Belgian And French Ale",5000,2.84,1230,"Oaked Arrogant Bastard Ale",355
+719,Pilsner,750,1.74,1230,"Delirium Tremens",471
+720,"Light Hybrid Beer",5000,1.29,1280,"Péché Mortel",254
+721,"Belgian Strong Ale",330,6.35,2030,"Chimay Grande Réserve",102
+722,"Sour Ale",1000,4.76,2040,"Westmalle Trappist Tripel",208
+723,"Dark Lager",330,5.86,1880,"Chimay Grande Réserve",241
+724,"India Pale Ale",330,4.82,1230,"Two Hearted Ale",123
+725,Smoke-flavored,500,6.89,1890,"Sierra Nevada Celebration Ale",444
+726,"Sour Ale",330,11.08,1540,"Storm King Stout",18
+727,"Belgian And French Ale",500,1.43,590,"Westmalle Trappist Tripel",222
+728,"Belgian And French Ale",330,4.08,1090,"Kirin Inchiban",148
+729,"Belgian And French Ale",330,7.11,580,"Sierra Nevada Celebration Ale",454
+730,"English Brown Ale",500,0.8,1080,Duvel,229
+731,Smoke-flavored,5000,0.49,1050,"Sublimely Self-Righteous Ale",23
+732,"Belgian Strong Ale",750,11.12,1580,"Pliny The Elder",117
+733,"Scottish And Irish Ale",750,0.09,1550,"Sierra Nevada Celebration Ale",466
+734,"German Wheat And Rye Beer",5000,11.61,590,Duvel,313
+735,"Sour Ale",1000,6.88,8040,Hennepin,484
+736,Pilsner,1000,5.63,1290,"Dreadnaught IPA",377
+737,"European Amber Lager",500,4.51,2840,"Hop Rod Rye",174
+738,"Strong Ale",5000,7.93,580,"Nugget Nectar",205
+739,"Light Hybrid Beer",750,6.06,1840,"Double Bastard Ale",106
+740,Stout,750,1.27,1850,"Bell’s Expedition",329
+741,Porter,1000,5.89,1280,"Old Rasputin Russian Imperial Stout",454
+742,"Wood-aged Beer",5000,4.46,1540,"Weihenstephaner Hefeweissbier",165
+743,"Fruit Beer",500,5.85,1230,Duvel,410
+744,"English Pale Ale",330,7.35,8090,"Samuel Smith’s Oatmeal Stout",280
+745,"Scottish And Irish Ale",330,0.97,8030,Maudite,143
+746,"Wood-aged Beer",1000,10.66,1830,"Sapporo Premium",165
+747,"Vegetable Beer",5000,5.87,1550,"HopSlam Ale",198
+748,"English Brown Ale",5000,6.43,1090,"Kirin Inchiban",425
+749,"Wood-aged Beer",1000,11.77,1020,"Sierra Nevada Bigfoot Barleywine Style Ale",482
+750,"Dark Lager",330,1.02,1540,"La Fin Du Monde",434
+751,"Fruit Beer",330,10.38,8050,"Pliny The Elder",260
+752,"English Pale Ale",5000,9.06,1530,"Bourbon County Stout",60
+753,"Light Lager",500,9.1,1550,"Dreadnaught IPA",409
+754,Stout,330,1.01,2830,Duvel,42
+755,"German Wheat And Rye Beer",500,10.76,2840,"Trappistes Rochefort 8",456
+756,"Scottish And Irish Ale",1000,7.21,1590,"Storm King Stout",263
+757,"German Wheat And Rye Beer",1000,2.33,2890,"Sierra Nevada Celebration Ale",321
+758,"Merican Ale",750,8.34,1590,"Stone Imperial Russian Stout",376
+759,Smoke-flavored,750,10.22,1240,"Ten FIDY",256
+760,"English Brown Ale",1000,7.84,1090,"Samuel Smith’s Imperial IPA",204
+761,"Belgian Strong Ale",500,8.58,1040,"Dreadnaught IPA",195
+762,"Sour Ale",750,11.19,2050,"Double Bastard Ale",262
+763,Porter,1000,6.16,1280,"Sierra Nevada Celebration Ale",144
+764,Smoke-flavored,5000,4.43,2050,"Edmund Fitzgerald Porter",181
+765,"Merican Ale",5000,4.26,2820,"Kirin Inchiban",249
+766,Smoke-flavored,330,8.05,2020,"Samuel Smith’s Oatmeal Stout",8
+767,"Belgian And French Ale",1000,10.95,540,"Sapporo Premium",496
+768,"Light Lager",330,1.17,1840,"Oaked Arrogant Bastard Ale",174
+769,"Fruit Beer",330,0.23,1530,"St. Bernardus Abt 12",415
+770,"Light Lager",5000,3.02,2880,Maharaj,492
+771,"English Pale Ale",5000,8.49,2850,"Samuel Smith’s Imperial IPA",453
+772,"English Brown Ale",500,4.74,1540,"Trois Pistoles",398
+773,Pilsner,1000,7.73,2020,"Chimay Grande Réserve",211
+774,"Scottish And Irish Ale",5000,9.9,590,Duvel,407
+775,"Belgian Strong Ale",5000,6.19,8030,Maharaj,398
+776,"Sour Ale",330,8.01,1240,"Chimay Grande Réserve",423
+777,"Belgian And French Ale",500,3.7,540,"Sapporo Premium",382
+778,"Light Lager",330,8.96,1240,"Samuel Smith’s Imperial IPA",448
+779,"German Wheat And Rye Beer",500,5.73,2890,"Alpha King Pale Ale",333
+780,"Scottish And Irish Ale",330,12.32,1240,"Sierra Nevada Bigfoot Barleywine Style Ale",290
+781,"Belgian And French Ale",1000,1.33,1830,"Péché Mortel",4
+782,"Belgian Strong Ale",330,1.47,2080,"St. Bernardus Abt 12",307
+783,"European Amber Lager",1000,4.56,530,"Dreadnaught IPA",299
+784,"Amber Hybrid Beer",1000,0.69,1550,"Sierra Nevada Celebration Ale",13
+785,Stout,500,9.66,1540,"Pliny The Elder",249
+786,"European Amber Lager",5000,0.37,8040,"Old Rasputin Russian Imperial Stout",478
+787,"Merican Ale",5000,4.14,2820,"Yeti Imperial Stout",197
+788,"Strong Ale",500,3.63,2040,"Sierra Nevada Celebration Ale",382
+789,"Merican Ale",330,9.58,1030,"90 Minute IPA",134
+790,"Amber Hybrid Beer",750,2.46,2880,"Bell’s Expedition",300
+791,"Vegetable Beer",330,11.21,1830,Maudite,106
+792,"India Pale Ale",5000,10.71,1040,Maudite,35
+793,Smoke-flavored,750,7.92,1880,"Trois Pistoles",167
+794,"India Pale Ale",750,0.95,540,"Trois Pistoles",331
+795,"Wood-aged Beer",750,1.82,8080,"Bourbon County Stout",257
+796,Stout,5000,0.43,1230,"HopSlam Ale",343
+797,"English Brown Ale",1000,9.08,1520,"Celebrator Doppelbock",235
+798,"Vegetable Beer",1000,12.57,1090,"Orval Trappist Ale",131
+799,"Dark Lager",500,6.92,8040,"Samuel Smith’s Oatmeal Stout",479
+800,Porter,500,10.95,1030,"Ruination IPA",65
+801,"European Amber Lager",330,11.29,1050,"Sapporo Premium",311
+802,Stout,5000,9.17,2030,"Brooklyn Black",66
+803,Stout,500,1.81,580,"Yeti Imperial Stout",75
+804,Pilsner,330,10.22,1820,"Bourbon County Stout",163
+805,"Sour Ale",5000,12.84,1540,"Hop Rod Rye",344
+806,"German Wheat And Rye Beer",1000,9.32,2850,"HopSlam Ale",311
+807,"Light Hybrid Beer",330,1.48,2890,"Schneider Aventinus",87
+808,"Amber Hybrid Beer",1000,11.38,1030,"Sierra Nevada Bigfoot Barleywine Style Ale",142
+809,"Amber Hybrid Beer",750,0.65,1540,"Trappistes Rochefort 8",7
+810,"Merican Ale",750,11.62,8020,"Bell’s Expedition",266
+811,"Light Hybrid Beer",750,9.4,1850,"Racer 5 India Pale Ale, Bear Republic Bre",30
+812,"European Amber Lager",750,7.93,580,"Orval Trappist Ale",312
+813,"Light Lager",750,7.87,1040,"Old Rasputin Russian Imperial Stout",395
+814,Pilsner,750,2.98,1090,"Storm King Stout",315
+815,"Belgian Strong Ale",330,11.91,1850,"Ruination IPA",474
+816,"German Wheat And Rye Beer",330,7.62,2830,"Delirium Noctorum",334
+817,"Scottish And Irish Ale",750,5.61,1290,"Founders Kentucky Breakfast",340
+818,Smoke-flavored,750,11.76,1220,"Yeti Imperial Stout",143
+819,"English Brown Ale",5000,7.55,2050,Maudite,425
+820,"India Pale Ale",330,2.52,1020,"Brooklyn Black",221
+821,Porter,500,7.96,1090,"Westmalle Trappist Tripel",97
+822,"Vegetable Beer",330,1.87,8040,"90 Minute IPA",328
+823,"Amber Hybrid Beer",500,10.2,8090,"St. Bernardus Abt 12",382
+824,Pilsner,330,8.55,8090,"Schneider Aventinus",484
+825,Porter,500,8.58,8020,"Schneider Aventinus",152
+826,"Wood-aged Beer",330,5.06,530,"St. Bernardus Abt 12",466
+827,Bock,330,10.02,520,"Weihenstephaner Hefeweissbier",46
+828,"Dark Lager",500,5.91,8080,"Stone Imperial Russian Stout",281
+829,Smoke-flavored,750,4.89,1240,Maudite,317
+830,"Light Lager",500,8.13,1520,"Sierra Nevada Bigfoot Barleywine Style Ale",145
+831,"English Brown Ale",5000,8.22,1540,"Orval Trappist Ale",483
+832,"Light Hybrid Beer",5000,8.0,540,"Founders Kentucky Breakfast",25
+833,Stout,1000,9.76,1280,"Sapporo Premium",53
+834,"Dark Lager",5000,2.23,580,Duvel,327
+835,"Merican Ale",330,1.3,1240,"Alpha King Pale Ale",436
+836,"Amber Hybrid Beer",5000,3.54,2040,"Schneider Aventinus",83
+837,"English Brown Ale",330,11.63,1540,"Hop Rod Rye",213
+838,"Scottish And Irish Ale",1000,9.72,1850,"Stone IPA",55
+839,"Dark Lager",330,11.03,2880,"Kirin Inchiban",134
+840,"German Wheat And Rye Beer",500,6.03,8020,"Sapporo Premium",415
+841,"Light Lager",500,7.43,580,"Delirium Tremens",94
+842,"English Pale Ale",5000,10.96,2090,"Sapporo Premium",467
+843,Porter,5000,11.69,2840,Hennepin,384
+844,Smoke-flavored,750,5.93,1880,"Oak Aged Yeti Imperial Stout",446
+845,"Amber Hybrid Beer",1000,0.04,1050,"Two Hearted Ale",462
+846,"Sour Ale",500,8.13,550,"Old Rasputin Russian Imperial Stout",476
+847,"Strong Ale",1000,8.26,8020,"Oak Aged Yeti Imperial Stout",469
+848,Bock,750,10.45,1290,"Hercules Double IPA",228
+849,Stout,750,10.38,2030,"Dreadnaught IPA",245
+850,"English Brown Ale",500,8.11,1240,Duvel,154
+851,"Light Lager",1000,7.62,1520,"Arrogant Bastard Ale",66
+852,Stout,1000,2.82,1890,"90 Minute IPA",464
+853,Bock,5000,10.0,1030,"Dreadnaught IPA",364
+854,"English Pale Ale",750,2.39,1580,"Edmund Fitzgerald Porter",472
+855,"Wood-aged Beer",330,4.03,1890,"Founders Kentucky Breakfast",449
+856,Smoke-flavored,500,9.67,1880,"Dreadnaught IPA",110
+857,"German Wheat And Rye Beer",500,10.9,1550,"Celebrator Doppelbock",390
+858,"Vegetable Beer",500,3.1,2030,"Old Rasputin Russian Imperial Stout",164
+859,Pilsner,1000,8.92,1850,"Samuel Smith’s Oatmeal Stout",421
+860,"German Wheat And Rye Beer",750,4.82,1880,"Oak Aged Yeti Imperial Stout",23
+861,"English Brown Ale",500,4.16,590,"Shakespeare Oatmeal",151
+862,"English Pale Ale",500,4.61,8020,"Orval Trappist Ale",2
+863,"Sour Ale",330,2.56,1230,"Kirin Inchiban",270
+864,"Fruit Beer",750,12.71,1530,"Delirium Tremens",368
+865,"Wood-aged Beer",500,7.82,1550,"Sapporo Premium",309
+866,"German Wheat And Rye Beer",1000,7.89,1580,"Celebrator Doppelbock",185
+867,"Belgian Strong Ale",750,7.46,8050,"Weihenstephaner Hefeweissbier",17
+868,"English Brown Ale",5000,11.07,2820,Duvel,421
+869,"European Amber Lager",750,8.86,1850,"Racer 5 India Pale Ale, Bear Republic Bre",37
+870,"Light Lager",5000,10.13,1080,"Sublimely Self-Righteous Ale",365
+871,"Dark Lager",750,2.99,2090,"Chocolate St",222
+872,"Merican Ale",500,7.45,530,"Old Rasputin Russian Imperial Stout",359
+873,"Amber Hybrid Beer",330,12.15,520,"Nugget Nectar",487
+874,"Dark Lager",5000,9.25,2850,"Hop Rod Rye",292
+875,"Wood-aged Beer",750,4.97,8040,"Storm King Stout",23
+876,Pilsner,330,6.09,1250,"Stone Imperial Russian Stout",281
+877,"Vegetable Beer",500,5.77,1590,"Sierra Nevada Bigfoot Barleywine Style Ale",453
+878,"Vegetable Beer",330,0.57,2830,"Westmalle Trappist Tripel",343
+879,"Wood-aged Beer",750,6.27,1520,"La Fin Du Monde",8
+880,"Strong Ale",1000,5.11,1540,"Sapporo Premium",353
+881,"European Amber Lager",750,8.52,520,"La Fin Du Monde",136
+882,Stout,330,3.57,2880,"Oak Aged Yeti Imperial Stout",485
+883,"Dark Lager",750,11.26,1250,"Samuel Smith’s Imperial IPA",25
+884,"Wood-aged Beer",750,7.51,520,"Oak Aged Yeti Imperial Stout",167
+885,"European Amber Lager",1000,12.86,1230,"Founders Breakfast Stout",343
+886,"European Amber Lager",750,11.78,530,"Samuel Smith’s Oatmeal Stout",51
+887,"German Wheat And Rye Beer",5000,12.43,2050,"Schneider Aventinus",351
+888,"European Amber Lager",750,5.69,590,"St. Bernardus Abt 12",465
+889,"Merican Ale",1000,1.36,2850,"90 Minute IPA",92
+890,"Fruit Beer",750,2.05,2890,"Brooklyn Black",466
+891,Smoke-flavored,750,0.29,520,"Yeti Imperial Stout",97
+892,"German Wheat And Rye Beer",750,10.84,550,"Chocolate St",451
+893,Stout,330,8.45,1890,"Samuel Smith’s Oatmeal Stout",71
+894,"Light Hybrid Beer",1000,12.57,1820,"Samuel Smith’s Oatmeal Stout",385
+895,"English Brown Ale",750,2.4,1890,"Orval Trappist Ale",278
+896,Pilsner,330,2.66,2030,"Weihenstephaner Hefeweissbier",281
+897,Pilsner,500,5.88,1580,"Old Rasputin Russian Imperial Stout",66
+898,"Amber Hybrid Beer",750,4.12,580,"Sierra Nevada Bigfoot Barleywine Style Ale",80
+899,"Sour Ale",5000,8.68,2890,"Ten FIDY",316
+900,Pilsner,1000,10.67,8050,Hennepin,26
+901,"German Wheat And Rye Beer",500,3.45,2850,"Delirium Noctorum",454
+902,"Fruit Beer",1000,7.88,1220,"Samuel Smith’s Oatmeal Stout",286
+903,"Merican Ale",500,1.92,590,Hennepin,376
+904,"English Brown Ale",750,4.62,2090,"Old Rasputin Russian Imperial Stout",410
+905,"Belgian Strong Ale",500,11.94,2050,"Delirium Tremens",168
+906,"Fruit Beer",1000,6.98,550,Maudite,265
+907,"Wood-aged Beer",5000,5.93,1020,"Westmalle Trappist Tripel",262
+908,"India Pale Ale",750,12.71,8080,"90 Minute IPA",441
+909,Stout,500,6.12,1080,Maudite,29
+910,"Light Lager",5000,8.85,8050,"Edmund Fitzgerald Porter",173
+911,"Belgian Strong Ale",750,4.88,8030,"Stone IPA",299
+912,Pilsner,5000,4.45,1030,"Shakespeare Oatmeal",336
+913,"Merican Ale",330,5.61,1230,Hennepin,312
+914,"India Pale Ale",750,6.81,8090,"Old Rasputin Russian Imperial Stout",89
+915,"Light Lager",330,8.68,1280,"Westmalle Trappist Tripel",186
+916,"India Pale Ale",1000,8.53,1030,"Chocolate St",478
+917,Porter,330,12.27,1580,"Pliny The Elder",242
+918,"Vegetable Beer",330,6.61,1850,"Edmund Fitzgerald Porter",413
+919,Smoke-flavored,1000,10.05,1040,"Founders Breakfast Stout",431
+920,"Strong Ale",5000,0.2,1530,"90 Minute IPA",476
+921,"English Pale Ale",330,9.39,1280,"Trois Pistoles",471
+922,"Sour Ale",330,6.74,1820,"Sublimely Self-Righteous Ale",377
+923,Smoke-flavored,1000,11.93,2030,"Arrogant Bastard Ale",400
+924,Pilsner,500,1.6,1290,Hennepin,273
+925,Porter,1000,3.54,590,Hennepin,135
+926,"Light Hybrid Beer",1000,11.47,2040,"Nugget Nectar",417
+927,"Light Hybrid Beer",500,5.79,2830,"Sierra Nevada Celebration Ale",375
+928,"Scottish And Irish Ale",330,10.31,2850,"Old Rasputin Russian Imperial Stout",285
+929,"Wood-aged Beer",330,4.1,1850,"Double Bastard Ale",98
+930,"Vegetable Beer",500,4.01,2050,"Two Hearted Ale",234
+931,"European Amber Lager",5000,6.85,1540,"Founders Kentucky Breakfast",123
+932,"European Amber Lager",1000,6.52,540,"Westmalle Trappist Tripel",195
+933,"Strong Ale",1000,3.91,8020,"Chocolate St",200
+934,"English Pale Ale",750,11.81,1580,"Westmalle Trappist Tripel",36
+935,"Merican Ale",500,11.0,2830,"Pliny The Elder",88
+936,"English Brown Ale",330,7.53,1050,"Nugget Nectar",366
+937,"Sour Ale",330,0.64,1290,"Bell’s Expedition",293
+938,Pilsner,5000,5.75,1520,"Storm King Stout",478
+939,"Scottish And Irish Ale",750,2.46,1890,"Péché Mortel",183
+940,"Light Hybrid Beer",1000,4.66,1030,"Yeti Imperial Stout",137
+941,"India Pale Ale",5000,6.82,1220,"Sublimely Self-Righteous Ale",202
+942,"Fruit Beer",750,5.21,1220,"La Fin Du Monde",143
+943,Bock,5000,0.65,1580,"Delirium Tremens",284
+944,"Amber Hybrid Beer",330,11.54,2090,"Trappistes Rochefort 10",338
+945,Porter,5000,12.09,1880,"Delirium Noctorum",441
+946,"Belgian And French Ale",1000,12.53,1030,"Delirium Tremens",284
+947,"Vegetable Beer",500,12.55,1520,"Hop Rod Rye",386
+948,"Belgian And French Ale",5000,1.7,2880,"Hercules Double IPA",496
+949,"Amber Hybrid Beer",1000,1.71,1580,"Dreadnaught IPA",153
+950,Porter,330,10.32,1220,"Oak Aged Yeti Imperial Stout",347
+951,"Light Hybrid Beer",1000,6.19,2040,"Sapporo Premium",427
+952,Smoke-flavored,5000,7.39,1890,"Brooklyn Black",115
+953,"Dark Lager",330,3.8,8030,"Nugget Nectar",456
+954,"German Wheat And Rye Beer",500,2.97,1090,"Oak Aged Yeti Imperial Stout",177
+955,"Dark Lager",500,0.2,8090,"Old Rasputin Russian Imperial Stout",227
+956,"Vegetable Beer",5000,3.11,2850,"Kirin Inchiban",93
+957,Bock,500,6.84,2840,"Oak Aged Yeti Imperial Stout",122
+958,"Scottish And Irish Ale",330,11.2,2820,"Stone IPA",238
+959,"Sour Ale",750,5.7,1530,"Kirin Inchiban",359
+960,"English Pale Ale",500,8.52,1580,Duvel,473
+961,"Belgian And French Ale",5000,1.51,520,"Edmund Fitzgerald Porter",107
+962,"Merican Ale",1000,10.19,1230,"Trappistes Rochefort 8",367
+963,"Wood-aged Beer",750,8.07,1830,"Oaked Arrogant Bastard Ale",253
+964,"Dark Lager",5000,11.12,2880,"Shakespeare Oatmeal",139
+965,"Merican Ale",750,4.97,1840,"Double Bastard Ale",242
+966,"Scottish And Irish Ale",1000,6.45,2820,Duvel,330
+967,"Belgian Strong Ale",5000,10.62,2050,"Stone IPA",384
+968,"German Wheat And Rye Beer",750,10.73,1890,"Trappistes Rochefort 10",257
+969,"Fruit Beer",750,4.62,2820,"Stone IPA",194
+970,"Vegetable Beer",5000,2.76,1080,"St. Bernardus Abt 12",367
+971,"English Pale Ale",330,5.41,1290,"Delirium Noctorum",350
+972,"Amber Hybrid Beer",330,4.93,2850,"Celebrator Doppelbock",468
+973,"Belgian Strong Ale",330,12.53,520,"Schneider Aventinus",154
+974,"Amber Hybrid Beer",5000,2.71,1230,"La Fin Du Monde",456
+975,"India Pale Ale",5000,10.88,1530,"Kirin Inchiban",177
+976,Porter,5000,5.54,8090,"HopSlam Ale",270
+977,"India Pale Ale",330,0.73,520,"Old Rasputin Russian Imperial Stout",24
+978,"Amber Hybrid Beer",500,3.3,1090,Maudite,312
+979,"Merican Ale",500,7.11,1520,"Celebrator Doppelbock",273
+980,"Sour Ale",1000,11.17,2020,"Oak Aged Yeti Imperial Stout",349
+981,"Sour Ale",5000,4.41,2850,"Pliny The Elder",385
+982,"Sour Ale",330,1.45,1280,"Yeti Imperial Stout",121
+983,"English Brown Ale",750,9.3,2040,"Storm King Stout",328
+984,"Belgian Strong Ale",330,6.45,2020,"Pliny The Elder",100
+985,Porter,1000,1.11,1890,"Samuel Smith’s Imperial IPA",309
+986,Smoke-flavored,1000,9.52,1040,"Shakespeare Oatmeal",215
+987,"Merican Ale",1000,5.52,8020,"Hop Rod Rye",97
+988,"India Pale Ale",330,2.76,2890,"Founders Breakfast Stout",357
+989,"Light Lager",5000,0.27,1240,"Two Hearted Ale",402
+990,"Light Lager",330,6.59,1520,"Bell’s Expedition",297
+991,"Light Lager",5000,4.15,1020,"Old Rasputin Russian Imperial Stout",204
+992,Stout,1000,3.48,1290,"Ruination IPA",55
+993,"Belgian And French Ale",5000,9.4,2090,"Sublimely Self-Righteous Ale",306
+994,"Belgian Strong Ale",1000,9.96,2050,"Storm King Stout",449
+995,"Fruit Beer",5000,9.35,1830,Duvel,212
+996,"Scottish And Irish Ale",750,10.51,1890,"Hop Rod Rye",243
+997,"Belgian Strong Ale",330,10.07,1840,"Oak Aged Yeti Imperial Stout",167
+998,"Light Lager",330,12.19,8080,"Stone IPA",157
+999,"Belgian And French Ale",750,7.93,2080,"Delirium Tremens",416
+1000,"Sour Ale",330,0.57,2030,"Sapporo Premium",458
+1001,Porter,330,8.56,8040,"Sierra Nevada Celebration Ale",468
+1002,"Sour Ale",750,0.76,2080,"Oaked Arrogant Bastard Ale",392
+1003,"Light Hybrid Beer",500,0.45,2040,Maudite,280
+1004,"Belgian And French Ale",5000,10.09,1080,"Edmund Fitzgerald Porter",359
+1005,Porter,5000,7.77,1080,"Samuel Smith’s Oatmeal Stout",453
+1006,"English Pale Ale",750,6.67,1080,"Sublimely Self-Righteous Ale",18
+1007,"German Wheat And Rye Beer",5000,11.75,540,"Samuel Smith’s Oatmeal Stout",193
+1008,Porter,5000,10.75,8090,"Celebrator Doppelbock",198
+1009,Porter,330,0.45,2840,"Schneider Aventinus",196
+1010,"Merican Ale",330,9.1,1840,"Two Hearted Ale",307
+1011,"Scottish And Irish Ale",500,4.17,1030,"Dreadnaught IPA",267
+1012,"Merican Ale",5000,1.17,530,Hennepin,163
+1013,"Belgian Strong Ale",330,4.35,1520,"Bourbon County Stout",305
+1014,"Vegetable Beer",1000,8.4,550,"Founders Kentucky Breakfast",475
+1015,"Merican Ale",750,11.57,2850,"Nugget Nectar",407
+1016,Stout,750,0.33,8020,Maudite,343
+1017,"Fruit Beer",5000,11.56,2820,"La Fin Du Monde",72
+1018,"English Pale Ale",1000,10.96,520,"Samuel Smith’s Imperial IPA",409
+1019,"Light Hybrid Beer",500,3.31,1230,"Founders Breakfast Stout",261
+1020,"English Brown Ale",1000,8.44,1540,"Péché Mortel",91
+1021,"Strong Ale",1000,3.83,1520,"Delirium Tremens",228
+1022,"Wood-aged Beer",750,2.63,1580,"HopSlam Ale",355
+1023,"Light Lager",330,1.06,8080,Maharaj,129
+1024,"Scottish And Irish Ale",500,0.25,8080,"HopSlam Ale",499
+1025,"English Pale Ale",330,12.39,1090,"Schneider Aventinus",330
+1026,"Sour Ale",1000,8.67,1540,"Yeti Imperial Stout",324
+1027,"German Wheat And Rye Beer",500,3.31,1020,"Bell’s Expedition",485
+1028,"Belgian Strong Ale",330,1.84,590,"Trappistes Rochefort 10",286
+1029,"Belgian And French Ale",1000,9.42,2050,"Oak Aged Yeti Imperial Stout",411
+1030,"Merican Ale",500,8.29,520,"Weihenstephaner Hefeweissbier",404
+1031,"Light Hybrid Beer",500,0.19,590,"Yeti Imperial Stout",452
+1032,"Amber Hybrid Beer",5000,6.77,1230,"Delirium Noctorum",170
+1033,"Sour Ale",500,4.45,8090,"Sierra Nevada Bigfoot Barleywine Style Ale",94
+1034,"Strong Ale",750,8.18,2880,"Sublimely Self-Righteous Ale",60
+1035,"Light Hybrid Beer",1000,9.98,1030,"Stone Imperial Russian Stout",442
+1036,Bock,1000,12.28,1240,"Sierra Nevada Bigfoot Barleywine Style Ale",311
+1037,"Belgian Strong Ale",1000,12.15,1030,"Sierra Nevada Celebration Ale",356
+1038,"European Amber Lager",500,6.05,1580,Hennepin,175
+1039,"Light Hybrid Beer",330,12.6,2020,Maharaj,229
+1040,Stout,5000,6.64,2080,"Orval Trappist Ale",104
+1041,"India Pale Ale",5000,4.99,1240,"Kirin Inchiban",441
+1042,"Sour Ale",1000,12.42,2830,"Bourbon County Stout",437
+1043,"Merican Ale",330,10.12,2030,"Stone IPA",433
+1044,Porter,5000,4.44,8050,"Storm King Stout",212
+1045,"India Pale Ale",5000,5.31,1020,Duvel,459
+1046,"Sour Ale",330,6.21,1240,"Delirium Tremens",252
+1047,"Amber Hybrid Beer",1000,2.77,1540,"Yeti Imperial Stout",72
+1048,Bock,330,10.6,2090,"Edmund Fitzgerald Porter",488
+1049,"Strong Ale",330,5.31,2090,Maharaj,402
+1050,"India Pale Ale",1000,3.93,8050,"Oaked Arrogant Bastard Ale",67
+1051,"Strong Ale",5000,10.43,8090,"90 Minute IPA",287
+1052,Stout,1000,1.36,590,"Double Bastard Ale",31
+1053,"Belgian Strong Ale",750,12.78,1580,"90 Minute IPA",474
+1054,Pilsner,330,4.21,8030,Maharaj,258
+1055,Porter,500,2.49,8050,"HopSlam Ale",424
+1056,Bock,5000,4.43,2890,"Trois Pistoles",7
+1057,Stout,330,8.92,1830,"Dreadnaught IPA",360
+1058,"Merican Ale",5000,11.64,8080,Duvel,237
+1059,"Merican Ale",1000,8.05,8080,"Founders Breakfast Stout",374
+1060,"Scottish And Irish Ale",750,2.17,530,"Founders Breakfast Stout",165
+1061,"Belgian Strong Ale",500,11.97,1820,"Oaked Arrogant Bastard Ale",320
+1062,"Vegetable Beer",5000,7.23,1290,"Bourbon County Stout",87
+1063,"Belgian And French Ale",330,0.13,2050,"Hercules Double IPA",40
+1064,"Amber Hybrid Beer",750,3.88,2090,"Sapporo Premium",419
+1065,"Light Hybrid Beer",750,5.93,590,"Delirium Noctorum",454
+1066,"German Wheat And Rye Beer",5000,10.5,2030,"Oaked Arrogant Bastard Ale",192
+1067,Porter,330,11.96,2850,"Storm King Stout",387
+1068,"Light Lager",500,1.05,2090,"St. Bernardus Abt 12",7
+1069,"Wood-aged Beer",500,6.06,1840,"Ten FIDY",49
+1070,"Belgian Strong Ale",1000,4.02,2030,"Chimay Grande Réserve",324
+1071,"English Brown Ale",750,10.76,1820,"Pliny The Elder",460
+1072,Stout,330,0.62,1050,"Bourbon County Stout",333
+1073,Porter,1000,2.26,1830,"Shakespeare Oatmeal",182
+1074,"English Brown Ale",330,8.27,2880,"Yeti Imperial Stout",3
+1075,"English Pale Ale",5000,4.2,1090,"Shakespeare Oatmeal",433
+1076,"Belgian Strong Ale",750,6.27,1840,Maharaj,340
+1077,"English Brown Ale",750,9.22,1250,"Brooklyn Black",437
+1078,"German Wheat And Rye Beer",500,9.31,2040,"Sapporo Premium",226
+1079,Stout,750,8.69,1220,"Oaked Arrogant Bastard Ale",371
+1080,"Belgian Strong Ale",330,1.68,1590,"Arrogant Bastard Ale",495
+1081,"English Brown Ale",750,5.66,590,"Arrogant Bastard Ale",194
+1082,"Sour Ale",500,7.73,2040,"Delirium Noctorum",118
+1083,"Belgian And French Ale",5000,5.51,1520,"Old Rasputin Russian Imperial Stout",122
+1084,Stout,330,6.61,8040,"Old Rasputin Russian Imperial Stout",315
+1085,Pilsner,750,2.3,1280,"Old Rasputin Russian Imperial Stout",275
+1086,"German Wheat And Rye Beer",750,6.73,1040,"Weihenstephaner Hefeweissbier",193
+1087,"English Pale Ale",1000,5.25,2020,"Founders Kentucky Breakfast",218
+1088,"European Amber Lager",500,11.62,1040,"Sierra Nevada Celebration Ale",457
+1089,"Strong Ale",330,10.73,1840,"Shakespeare Oatmeal",354
+1090,"Scottish And Irish Ale",5000,8.32,1850,Duvel,354
+1091,"Scottish And Irish Ale",330,4.85,2850,"La Fin Du Monde",435
+1092,"Amber Hybrid Beer",500,9.83,530,Maudite,442
+1093,"Amber Hybrid Beer",5000,11.31,1030,"Double Bastard Ale",286
+1094,"Strong Ale",330,8.45,550,"Hop Rod Rye",481
+1095,"Amber Hybrid Beer",750,0.67,520,"Delirium Noctorum",402
+1096,Smoke-flavored,500,12.55,1250,"Schneider Aventinus",105
+1097,"Scottish And Irish Ale",750,0.27,2020,"St. Bernardus Abt 12",490
+1098,Smoke-flavored,5000,2.43,1580,"Kirin Inchiban",365
+1099,Smoke-flavored,5000,1.38,1020,"Chimay Grande Réserve",181
+1100,"Amber Hybrid Beer",1000,7.75,1890,"90 Minute IPA",409
+1101,"Light Hybrid Beer",5000,2.87,1530,"Stone Imperial Russian Stout",198
+1102,"Light Lager",750,5.91,2830,"Ruination IPA",236
+1103,"Wood-aged Beer",750,1.18,550,"Dreadnaught IPA",440
+1104,"European Amber Lager",750,5.13,1220,Maudite,202
+1105,"English Brown Ale",330,3.21,1880,"Arrogant Bastard Ale",145
+1106,"Light Hybrid Beer",500,12.54,8080,"HopSlam Ale",182
+1107,"Belgian Strong Ale",330,12.85,1830,"Sierra Nevada Celebration Ale",406
+1108,"English Brown Ale",5000,3.69,1020,"Racer 5 India Pale Ale, Bear Republic Bre",251
+1109,"Sour Ale",5000,11.37,8030,"Founders Breakfast Stout",79
+1110,"Scottish And Irish Ale",1000,4.72,1820,"Pliny The Elder",306
+1111,"European Amber Lager",5000,7.32,1820,"Sapporo Premium",66
+1112,Smoke-flavored,750,0.6,1040,"Oak Aged Yeti Imperial Stout",108
+1113,"Fruit Beer",1000,2.1,1590,"Trappistes Rochefort 10",147
+1114,"Light Lager",5000,5.22,1290,Maudite,440
+1115,"Scottish And Irish Ale",5000,5.55,540,"90 Minute IPA",284
+1116,"Sour Ale",1000,9.82,8020,"Péché Mortel",277
+1117,"Light Lager",750,3.26,1240,"Brooklyn Black",456
+1118,"Light Lager",750,7.81,1530,"Alpha King Pale Ale",424
+1119,"Sour Ale",5000,5.71,1820,"Chimay Grande Réserve",129
+1120,"Belgian And French Ale",500,4.92,530,"Sapporo Premium",153
+1121,Pilsner,1000,11.26,1530,"Kirin Inchiban",69
+1122,"Merican Ale",1000,1.96,520,"Alpha King Pale Ale",464
+1123,"Light Lager",1000,12.35,1580,"Alpha King Pale Ale",65
+1124,"European Amber Lager",330,12.16,2840,"Kirin Inchiban",56
+1125,Porter,750,1.21,1540,"Kirin Inchiban",111
+1126,"Light Lager",500,5.46,1830,"Two Hearted Ale",131
+1127,"Light Lager",500,8.1,1520,"Racer 5 India Pale Ale, Bear Republic Bre",276
+1128,"Scottish And Irish Ale",5000,1.13,2840,"Racer 5 India Pale Ale, Bear Republic Bre",450
+1129,"English Pale Ale",330,1.77,1590,"Old Rasputin Russian Imperial Stout",140
+1130,Smoke-flavored,750,1.68,8040,"Hop Rod Rye",398
+1131,Bock,750,6.01,2840,Maharaj,189
+1132,Smoke-flavored,750,0.68,1240,"Hop Rod Rye",255
+1133,"Merican Ale",500,3.78,1530,"Celebrator Doppelbock",351
+1134,"Belgian And French Ale",750,8.04,8090,"Chimay Grande Réserve",333
+1135,"English Pale Ale",5000,4.71,8030,"Dreadnaught IPA",2
+1136,"Amber Hybrid Beer",5000,1.19,2030,"Double Bastard Ale",22
+1137,"Light Hybrid Beer",5000,5.44,1030,"Old Rasputin Russian Imperial Stout",228
+1138,"Merican Ale",1000,2.01,1220,"HopSlam Ale",281
+1139,"Light Hybrid Beer",750,2.11,2830,"Storm King Stout",471
+1140,Bock,330,7.93,8020,"Ruination IPA",42
+1141,"English Brown Ale",750,2.07,8040,"Two Hearted Ale",361
+1142,"Strong Ale",1000,4.25,1080,"Trappistes Rochefort 10",147
+1143,"English Pale Ale",1000,12.1,2090,Maudite,422
+1144,"English Pale Ale",5000,7.59,2080,"Ruination IPA",35
+1145,"India Pale Ale",1000,8.54,2030,"Sierra Nevada Celebration Ale",218
+1146,"India Pale Ale",500,11.39,1050,"Chocolate St",413
+1147,"Belgian Strong Ale",1000,8.0,1580,"Orval Trappist Ale",137
+1148,"India Pale Ale",500,1.69,1550,"St. Bernardus Abt 12",98
+1149,"Amber Hybrid Beer",750,4.07,2040,"Chocolate St",129
+1150,"English Brown Ale",1000,0.93,1280,"Hercules Double IPA",391
+1151,"English Brown Ale",1000,11.89,1030,"Nugget Nectar",128
+1152,"English Brown Ale",1000,1.27,1050,"Double Bastard Ale",121
+1153,"German Wheat And Rye Beer",5000,10.63,8090,"Old Rasputin Russian Imperial Stout",211
+1154,"Scottish And Irish Ale",5000,5.25,2830,"Oaked Arrogant Bastard Ale",193
+1155,"Wood-aged Beer",1000,3.9,1820,"Nugget Nectar",221
+1156,"Light Lager",750,0.13,530,"Brooklyn Black",253
+1157,Bock,1000,3.98,1550,"Trois Pistoles",112
+1158,"Belgian And French Ale",750,8.4,1880,"Shakespeare Oatmeal",334
+1159,"Dark Lager",1000,12.97,1050,"Two Hearted Ale",445
+1160,"Vegetable Beer",1000,1.86,2850,"La Fin Du Monde",265
+1161,"English Pale Ale",330,8.2,8030,"Bell’s Expedition",74
+1162,"Belgian And French Ale",5000,4.47,1550,"Storm King Stout",21
+1163,"Light Lager",500,5.3,2030,"Stone Imperial Russian Stout",414
+1164,"Strong Ale",750,1.74,1290,Maudite,338
+1165,"German Wheat And Rye Beer",5000,8.43,2890,"Trois Pistoles",130
+1166,Pilsner,5000,2.13,8020,"Hop Rod Rye",428
+1167,"Belgian Strong Ale",5000,10.79,1540,"Hercules Double IPA",236
+1168,Stout,500,6.12,1540,"Dreadnaught IPA",163
+1169,"German Wheat And Rye Beer",500,9.34,8030,"Old Rasputin Russian Imperial Stout",404
+1170,"Strong Ale",5000,8.36,1030,"Sapporo Premium",343
+1171,"Merican Ale",750,2.49,590,Maharaj,314
+1172,"Strong Ale",330,7.28,1520,"Chimay Grande Réserve",386
+1173,"Light Hybrid Beer",1000,11.55,2820,Maharaj,284
+1174,"European Amber Lager",750,9.17,2090,"Trois Pistoles",312
+1175,"Belgian Strong Ale",750,2.55,1220,"Samuel Smith’s Oatmeal Stout",151
+1176,"Scottish And Irish Ale",5000,11.02,1840,"Hercules Double IPA",399
+1177,"Strong Ale",1000,5.78,1580,"Stone IPA",176
+1178,"Amber Hybrid Beer",330,11.76,1240,"Old Rasputin Russian Imperial Stout",491
+1179,"India Pale Ale",750,2.05,8040,"HopSlam Ale",56
+1180,"European Amber Lager",750,4.33,8040,"Delirium Tremens",38
+1181,"Light Hybrid Beer",1000,12.97,1590,"Orval Trappist Ale",76
+1182,"Light Lager",1000,11.85,1880,"St. Bernardus Abt 12",408
+1183,"Scottish And Irish Ale",750,7.96,540,"Trois Pistoles",140
+1184,"Dark Lager",1000,9.65,580,"Samuel Smith’s Oatmeal Stout",112
+1185,"Strong Ale",750,6.92,1820,"Samuel Smith’s Imperial IPA",399
+1186,"Dark Lager",750,12.54,8050,"Edmund Fitzgerald Porter",37
+1187,"German Wheat And Rye Beer",500,5.01,1250,"Orval Trappist Ale",64
+1188,Porter,5000,0.77,2830,Hennepin,492
+1189,"Belgian And French Ale",330,7.65,1230,"HopSlam Ale",178
+1190,Bock,5000,8.81,1580,"Weihenstephaner Hefeweissbier",48
+1191,"Belgian And French Ale",330,0.59,2820,"Alpha King Pale Ale",498
+1192,"Sour Ale",5000,12.18,2050,"Celebrator Doppelbock",135
+1193,Bock,5000,1.99,1040,"Edmund Fitzgerald Porter",354
+1194,Porter,5000,5.31,1290,"Péché Mortel",448
+1195,"Vegetable Beer",330,2.64,520,"Arrogant Bastard Ale",74
+1196,"English Brown Ale",5000,12.02,1540,"Trappistes Rochefort 8",290
+1197,"Dark Lager",750,4.32,1540,"La Fin Du Monde",298
+1198,"Scottish And Irish Ale",750,8.21,1530,"HopSlam Ale",68
+1199,"Amber Hybrid Beer",5000,0.06,1850,"Pliny The Elder",433
+1200,"India Pale Ale",5000,9.81,1220,"Edmund Fitzgerald Porter",212
+1201,"Strong Ale",5000,9.83,1890,"Trois Pistoles",197
+1202,Smoke-flavored,5000,4.51,2820,"Stone Imperial Russian Stout",455
+1203,"Dark Lager",330,0.86,550,"Old Rasputin Russian Imperial Stout",250
+1204,Porter,330,9.55,2020,"St. Bernardus Abt 12",479
+1205,Porter,500,3.55,8050,"Trappistes Rochefort 10",442
+1206,Stout,5000,6.13,1840,"Double Bastard Ale",152
+1207,Pilsner,5000,9.75,2030,"Stone IPA",172
+1208,Porter,5000,1.96,1240,"Sublimely Self-Righteous Ale",223
+1209,"Strong Ale",5000,1.4,1250,"Chimay Grande Réserve",44
+1210,Stout,750,9.56,1030,"Old Rasputin Russian Imperial Stout",94
+1211,"European Amber Lager",5000,5.82,1230,"Oak Aged Yeti Imperial Stout",265
+1212,"Vegetable Beer",1000,4.31,1850,"Chocolate St",56
+1213,"Light Hybrid Beer",1000,10.69,550,"Trois Pistoles",423
+1214,"Scottish And Irish Ale",500,10.67,1880,"Brooklyn Black",176
+1215,"English Brown Ale",750,11.68,590,"Westmalle Trappist Tripel",178
+1216,"Amber Hybrid Beer",500,9.95,2080,"Delirium Noctorum",437
+1217,Pilsner,500,6.95,8030,"Delirium Noctorum",27
+1218,"Light Lager",1000,9.73,1530,"Alpha King Pale Ale",290
+1219,"Belgian Strong Ale",5000,7.48,1580,"Storm King Stout",497
+1220,"Vegetable Beer",5000,3.85,540,"Péché Mortel",473
+1221,"Fruit Beer",500,4.67,550,"Orval Trappist Ale",483
+1222,"Light Hybrid Beer",750,9.42,1250,"Chocolate St",445
+1223,Bock,500,0.1,1820,"Sapporo Premium",69
+1224,Porter,5000,4.44,8050,"Hercules Double IPA",35
+1225,"Vegetable Beer",330,3.09,8020,"Hop Rod Rye",5
+1226,"Scottish And Irish Ale",5000,6.62,1550,"Edmund Fitzgerald Porter",388
+1227,"Vegetable Beer",500,3.78,1850,"Oaked Arrogant Bastard Ale",55
+1228,"Dark Lager",5000,1.25,1050,"Westmalle Trappist Tripel",353
+1229,"Scottish And Irish Ale",750,4.11,1290,"Chocolate St",375
+1230,"European Amber Lager",5000,6.81,2820,"Sierra Nevada Bigfoot Barleywine Style Ale",412
+1231,"Wood-aged Beer",330,2.03,1880,"Dreadnaught IPA",78
+1232,"Strong Ale",750,6.7,590,"Trois Pistoles",13
+1233,"European Amber Lager",5000,6.67,1250,Maudite,177
+1234,"Sour Ale",500,5.33,1280,"Racer 5 India Pale Ale, Bear Republic Bre",377
+1235,Bock,1000,11.38,1030,"Samuel Smith’s Oatmeal Stout",70
+1236,"Merican Ale",500,3.36,1840,Maudite,430
+1237,"Light Hybrid Beer",500,3.79,1580,"Trappistes Rochefort 8",289
+1238,"Merican Ale",5000,1.49,1840,"Chimay Grande Réserve",380
+1239,"Sour Ale",750,9.98,2890,"Sierra Nevada Bigfoot Barleywine Style Ale",281
+1240,"Fruit Beer",330,1.89,2040,"Founders Kentucky Breakfast",325
+1241,"English Brown Ale",330,1.15,1050,"Hop Rod Rye",367
+1242,"Light Lager",5000,7.54,580,"Stone IPA",189
+1243,"English Brown Ale",1000,2.4,1820,"Dreadnaught IPA",327
+1244,"German Wheat And Rye Beer",5000,1.59,1020,"HopSlam Ale",273
+1245,"Sour Ale",1000,8.0,550,"Nugget Nectar",22
+1246,"Belgian And French Ale",750,3.51,8050,"Trois Pistoles",448
+1247,"German Wheat And Rye Beer",1000,4.02,2850,"Weihenstephaner Hefeweissbier",436
+1248,Bock,750,11.96,1080,Hennepin,244
+1249,"European Amber Lager",500,9.41,1240,"Shakespeare Oatmeal",173
+1250,"German Wheat And Rye Beer",750,5.52,1840,"Ruination IPA",78
+1251,"Belgian And French Ale",750,6.47,1280,"Péché Mortel",168
+1252,"Wood-aged Beer",330,4.58,1540,"Chimay Grande Réserve",235
+1253,"German Wheat And Rye Beer",5000,6.16,520,"Arrogant Bastard Ale",374
+1254,"English Pale Ale",5000,0.62,2030,"Samuel Smith’s Oatmeal Stout",215
+1255,Stout,330,8.33,8080,"Sublimely Self-Righteous Ale",399
+1256,"English Pale Ale",330,7.77,530,"Trappistes Rochefort 10",255
+1257,"German Wheat And Rye Beer",750,2.59,520,"Hercules Double IPA",290
+1258,Smoke-flavored,5000,3.01,2090,"Weihenstephaner Hefeweissbier",271
+1259,Stout,5000,2.01,1890,"Sapporo Premium",222
+1260,"English Brown Ale",5000,1.11,1880,"Alpha King Pale Ale",131
+1261,"Strong Ale",500,4.07,1290,Maharaj,77
+1262,"Light Hybrid Beer",1000,0.5,2050,"Chocolate St",117
+1263,"Scottish And Irish Ale",5000,9.55,1280,"Bourbon County Stout",490
+1264,Stout,5000,12.3,590,"Bourbon County Stout",111
+1265,"Dark Lager",500,5.71,1220,"Edmund Fitzgerald Porter",290
+1266,Pilsner,5000,9.68,1280,"Shakespeare Oatmeal",460
+1267,"India Pale Ale",5000,8.62,2020,"Chimay Grande Réserve",85
+1268,Pilsner,750,6.52,8050,"Ten FIDY",488
+1269,"Sour Ale",5000,5.76,2890,Maharaj,55
+1270,"English Brown Ale",330,12.87,2040,"Shakespeare Oatmeal",307
+1271,"Belgian Strong Ale",5000,0.28,550,"Alpha King Pale Ale",457
+1272,"Light Hybrid Beer",5000,9.54,8050,"Orval Trappist Ale",429
+1273,"Scottish And Irish Ale",500,11.2,1050,"Edmund Fitzgerald Porter",429
+1274,Stout,750,11.3,2090,"St. Bernardus Abt 12",303
+1275,"German Wheat And Rye Beer",1000,11.4,8020,"Two Hearted Ale",459
+1276,"Strong Ale",750,11.48,2850,"Ten FIDY",261
+1277,"Belgian And French Ale",330,7.44,1090,"Chimay Grande Réserve",86
+1278,"English Brown Ale",750,0.53,1550,"Trappistes Rochefort 8",277
+1279,Bock,500,7.18,1220,"Sierra Nevada Bigfoot Barleywine Style Ale",153
+1280,"Scottish And Irish Ale",5000,0.33,550,"HopSlam Ale",123
+1281,"English Pale Ale",5000,9.48,2880,Hennepin,444
+1282,"Dark Lager",750,6.44,2830,"Hop Rod Rye",174
+1283,Stout,1000,1.65,2890,"Stone IPA",302
+1284,"India Pale Ale",750,1.17,1850,"HopSlam Ale",475
+1285,"German Wheat And Rye Beer",1000,5.45,2090,"Westmalle Trappist Tripel",220
+1286,"German Wheat And Rye Beer",1000,2.06,1030,"Sierra Nevada Bigfoot Barleywine Style Ale",191
+1287,"Strong Ale",500,11.32,1040,"Two Hearted Ale",95
+1288,"English Pale Ale",330,4.02,1220,"Hercules Double IPA",292
+1289,"Light Hybrid Beer",1000,6.97,1220,"HopSlam Ale",25
+1290,Stout,5000,5.3,530,"Stone Imperial Russian Stout",389
+1291,"Fruit Beer",500,4.79,2050,Hennepin,362
+1292,"India Pale Ale",5000,7.29,8080,"Péché Mortel",300
+1293,Pilsner,5000,10.26,1530,"Trappistes Rochefort 8",76
+1294,"Belgian And French Ale",750,11.81,530,"Chimay Grande Réserve",322
+1295,"Sour Ale",1000,9.84,540,"Double Bastard Ale",472
+1296,"Sour Ale",750,8.67,1520,Hennepin,193
+1297,"Belgian Strong Ale",330,10.68,1230,"Orval Trappist Ale",373
+1298,Pilsner,500,1.69,1520,"Samuel Smith’s Imperial IPA",420
+1299,"Fruit Beer",330,6.88,8030,Duvel,42
+1300,"European Amber Lager",500,9.24,1080,"Chocolate St",57
+1301,Stout,500,7.77,2890,"Racer 5 India Pale Ale, Bear Republic Bre",428
+1302,Porter,5000,4.03,8020,"Founders Kentucky Breakfast",115
+1303,"Amber Hybrid Beer",750,4.47,2030,"Two Hearted Ale",424
+1304,"Dark Lager",1000,3.77,2050,"Shakespeare Oatmeal",103
+1305,Stout,1000,5.53,550,"St. Bernardus Abt 12",237
+1306,"India Pale Ale",500,11.71,1820,"Storm King Stout",63
+1307,"English Pale Ale",5000,8.54,590,"Stone Imperial Russian Stout",463
+1308,Bock,5000,1.02,1520,Maudite,282
+1309,"Fruit Beer",5000,7.99,8050,"Westmalle Trappist Tripel",497
+1310,"Wood-aged Beer",500,3.52,1850,"Hop Rod Rye",169
+1311,"Strong Ale",500,1.38,1240,"Péché Mortel",171
+1312,"Belgian And French Ale",1000,1.43,1050,"Péché Mortel",142
+1313,"Vegetable Beer",330,10.52,1890,"Founders Breakfast Stout",483
+1314,"Belgian Strong Ale",5000,10.43,2820,"Chimay Grande Réserve",319
+1315,"Merican Ale",750,7.56,1890,"Sapporo Premium",58
+1316,"Wood-aged Beer",500,8.31,1230,"Shakespeare Oatmeal",259
+1317,"India Pale Ale",5000,5.32,8040,"Delirium Tremens",76
+1318,"Strong Ale",500,1.21,8090,"Shakespeare Oatmeal",202
+1319,Stout,1000,7.53,1590,"Brooklyn Black",226
+1320,Smoke-flavored,330,4.46,1090,"Schneider Aventinus",93
+1321,"English Brown Ale",750,7.89,1540,"Bourbon County Stout",358
+1322,"Dark Lager",5000,4.22,1220,"Samuel Smith’s Oatmeal Stout",169
+1323,"Light Hybrid Beer",1000,12.73,1080,"Storm King Stout",281
+1324,"English Pale Ale",750,8.93,1250,"Schneider Aventinus",410
+1325,"Strong Ale",750,4.63,590,"Sierra Nevada Bigfoot Barleywine Style Ale",121
+1326,"Light Lager",5000,6.83,8030,"Ten FIDY",207
+1327,"Belgian And French Ale",330,11.42,530,"Edmund Fitzgerald Porter",498
+1328,"Belgian Strong Ale",750,5.71,1580,"Stone Imperial Russian Stout",181
+1329,"Belgian And French Ale",1000,10.33,1250,"Trappistes Rochefort 8",403
+1330,Pilsner,500,2.66,1820,"Yeti Imperial Stout",99
+1331,Bock,750,10.07,1250,"Founders Breakfast Stout",87
+1332,Stout,5000,11.24,8080,Maharaj,87
+1333,Porter,330,0.83,2020,"Shakespeare Oatmeal",277
+1334,"Strong Ale",750,1.8,2880,"Bourbon County Stout",227
+1335,"Sour Ale",750,5.31,2090,"Delirium Noctorum",223
+1336,"Light Lager",750,4.52,2050,"Edmund Fitzgerald Porter",181
+1337,Stout,750,5.49,540,"Kirin Inchiban",19
+1338,"European Amber Lager",5000,9.51,1090,Hennepin,9
+1339,"Fruit Beer",330,4.34,8050,"Arrogant Bastard Ale",356
+1340,"Vegetable Beer",750,8.7,2020,"Samuel Smith’s Oatmeal Stout",488
+1341,"Wood-aged Beer",5000,12.63,520,Duvel,138
+1342,"Strong Ale",500,7.38,1280,"Founders Breakfast Stout",223
+1343,"Belgian Strong Ale",330,3.02,1020,"Schneider Aventinus",130
+1344,"European Amber Lager",330,6.53,8030,"Nugget Nectar",327
+1345,"Belgian Strong Ale",330,10.07,2840,"Trois Pistoles",382
+1346,"Sour Ale",500,0.81,1030,"Founders Kentucky Breakfast",24
+1347,"Merican Ale",330,4.15,2820,Maharaj,202
+1348,"European Amber Lager",750,1.01,520,"Westmalle Trappist Tripel",77
+1349,"Wood-aged Beer",5000,5.23,1540,"Chimay Grande Réserve",84
+1350,"India Pale Ale",330,10.13,1080,"Edmund Fitzgerald Porter",248
+1351,"Wood-aged Beer",1000,11.28,8050,"Samuel Smith’s Imperial IPA",257
+1352,"English Brown Ale",750,4.08,2050,"Sapporo Premium",247
+1353,"European Amber Lager",330,2.16,2030,"Old Rasputin Russian Imperial Stout",167
+1354,"Strong Ale",750,6.88,2030,"Celebrator Doppelbock",487
+1355,"Merican Ale",5000,5.09,1040,"Stone Imperial Russian Stout",25
+1356,Bock,500,0.16,530,"Celebrator Doppelbock",47
+1357,"Vegetable Beer",5000,10.09,1280,"Founders Kentucky Breakfast",237
+1358,"Sour Ale",5000,6.41,8090,"Arrogant Bastard Ale",291
+1359,"Scottish And Irish Ale",500,8.68,1840,"Arrogant Bastard Ale",56
+1360,"Light Lager",1000,1.19,8040,"Ten FIDY",370
+1361,"Belgian Strong Ale",500,10.11,1250,"Sapporo Premium",219
+1362,"Light Hybrid Beer",330,6.29,8040,Duvel,394
+1363,"Belgian Strong Ale",1000,3.13,1020,"Celebrator Doppelbock",327
+1364,"European Amber Lager",750,5.63,1280,"Bourbon County Stout",416
+1365,Bock,5000,7.75,1050,"Founders Kentucky Breakfast",398
+1366,Porter,330,6.94,8020,"Chimay Grande Réserve",133
+1367,"Strong Ale",500,4.25,8030,"Double Bastard Ale",206
+1368,"Belgian Strong Ale",1000,4.73,1590,"Trappistes Rochefort 10",276
+1369,Porter,500,11.91,8090,"Stone IPA",343
+1370,"Belgian And French Ale",330,3.19,550,"Pliny The Elder",240
+1371,"Wood-aged Beer",500,4.2,1830,"Founders Breakfast Stout",305
+1372,"German Wheat And Rye Beer",500,2.43,1080,"La Fin Du Monde",3
+1373,Porter,330,1.75,1880,"Dreadnaught IPA",389
+1374,"Belgian And French Ale",5000,7.85,1050,Hennepin,31
+1375,"English Brown Ale",5000,12.0,1080,Hennepin,156
+1376,"Light Hybrid Beer",1000,8.49,580,"Trois Pistoles",66
+1377,"India Pale Ale",5000,1.91,580,"Brooklyn Black",198
+1378,"Light Hybrid Beer",750,1.27,2050,"Péché Mortel",141
+1379,"Merican Ale",5000,10.4,1030,"Oak Aged Yeti Imperial Stout",406
+1380,"Light Lager",500,0.52,580,"Orval Trappist Ale",420
+1381,"European Amber Lager",750,3.79,2090,Maharaj,404
+1382,"English Pale Ale",750,9.66,8090,Duvel,480
+1383,"Dark Lager",330,7.76,1580,Hennepin,283
+1384,"Scottish And Irish Ale",5000,10.16,1040,"Pliny The Elder",480
+1385,"Light Lager",330,7.72,1590,"Bourbon County Stout",310
+1386,"English Brown Ale",330,9.71,2820,"HopSlam Ale",481
+1387,"Belgian And French Ale",1000,9.76,8040,Maharaj,418
+1388,Smoke-flavored,500,7.32,8080,"Samuel Smith’s Oatmeal Stout",277
+1389,Stout,330,0.31,1880,"Péché Mortel",101
+1390,"Dark Lager",500,2.97,1030,"Two Hearted Ale",38
+1391,"Vegetable Beer",750,6.2,2050,"Stone IPA",141
+1392,"Merican Ale",5000,11.92,1530,"La Fin Du Monde",366
+1393,"Belgian Strong Ale",330,9.72,2880,"Pliny The Elder",146
+1394,"Sour Ale",750,10.44,2890,"Orval Trappist Ale",184
+1395,"Amber Hybrid Beer",750,12.2,8050,"Brooklyn Black",229
+1396,"German Wheat And Rye Beer",750,12.5,1220,"Hercules Double IPA",104
+1397,"European Amber Lager",750,9.57,8050,"Trappistes Rochefort 10",347
+1398,"Amber Hybrid Beer",5000,12.48,1030,"Péché Mortel",68
+1399,"Light Lager",330,6.37,530,"La Fin Du Monde",246
+1400,"Light Hybrid Beer",1000,0.22,1290,"Weihenstephaner Hefeweissbier",410
+1401,"Light Lager",750,4.75,1820,"Ruination IPA",404
+1402,"Light Lager",500,4.51,1580,"Oak Aged Yeti Imperial Stout",46
+1403,"Amber Hybrid Beer",1000,11.5,580,"Oaked Arrogant Bastard Ale",415
+1404,"English Pale Ale",750,1.59,520,"Ten FIDY",171
+1405,Smoke-flavored,500,4.44,2050,"Orval Trappist Ale",20
+1406,"Light Hybrid Beer",750,4.15,1550,"Chocolate St",239
+1407,Porter,330,0.46,8030,"Péché Mortel",244
+1408,"Vegetable Beer",5000,6.27,8020,"Sublimely Self-Righteous Ale",225
+1409,"Light Lager",5000,11.31,1250,"Schneider Aventinus",303
+1410,"Belgian Strong Ale",750,2.77,2840,"Trappistes Rochefort 10",460
+1411,Porter,330,12.17,8020,"La Fin Du Monde",15
+1412,"Scottish And Irish Ale",330,2.91,1530,"Alpha King Pale Ale",375
+1413,Bock,5000,7.51,8020,"Nugget Nectar",106
+1414,"English Pale Ale",750,8.43,2890,"Brooklyn Black",129
+1415,"India Pale Ale",500,6.21,2080,"90 Minute IPA",201
+1416,"English Pale Ale",1000,9.2,1550,Hennepin,346
+1417,"Vegetable Beer",5000,9.64,2880,"Racer 5 India Pale Ale, Bear Republic Bre",199
+1418,"Belgian Strong Ale",750,11.08,2880,"Ruination IPA",180
+1419,"Scottish And Irish Ale",5000,9.16,1840,Hennepin,348
+1420,"Merican Ale",5000,10.19,2050,"Kirin Inchiban",36
+1421,Bock,500,1.03,1030,"Stone Imperial Russian Stout",491
+1422,"European Amber Lager",1000,7.85,1250,"Two Hearted Ale",18
+1423,Smoke-flavored,330,4.04,1540,"Bell’s Expedition",250
+1424,Porter,330,10.25,540,"Shakespeare Oatmeal",55
+1425,Smoke-flavored,750,0.41,1030,"Yeti Imperial Stout",432
+1426,Stout,1000,1.7,1580,"Founders Kentucky Breakfast",4
+1427,Smoke-flavored,5000,2.46,2050,"Racer 5 India Pale Ale, Bear Republic Bre",473
+1428,"Amber Hybrid Beer",330,5.7,8050,"Double Bastard Ale",490
+1429,Pilsner,5000,9.07,2090,"Chimay Grande Réserve",327
+1430,"Sour Ale",1000,0.69,1080,"Oaked Arrogant Bastard Ale",212
+1431,"Belgian Strong Ale",5000,5.82,1550,"Hop Rod Rye",133
+1432,"Dark Lager",500,5.53,1280,"Orval Trappist Ale",263
+1433,"Fruit Beer",500,9.38,2820,"Schneider Aventinus",494
+1434,"Scottish And Irish Ale",5000,10.05,1050,"Storm King Stout",462
+1435,"Fruit Beer",500,11.87,1890,"Stone IPA",211
+1436,"German Wheat And Rye Beer",1000,8.72,1520,"Sierra Nevada Celebration Ale",435
+1437,"Wood-aged Beer",500,4.09,8030,"Shakespeare Oatmeal",177
+1438,"Light Hybrid Beer",750,12.67,2090,"Stone Imperial Russian Stout",445
+1439,"German Wheat And Rye Beer",750,3.91,2050,"Chocolate St",77
+1440,"Light Lager",330,4.81,550,"90 Minute IPA",420
+1441,"Belgian And French Ale",750,9.86,8080,"Stone IPA",52
+1442,"Amber Hybrid Beer",1000,2.87,1020,"Old Rasputin Russian Imperial Stout",197
+1443,Stout,330,11.86,8040,"Two Hearted Ale",470
+1444,"Light Lager",500,1.66,540,"Samuel Smith’s Oatmeal Stout",224
+1445,Pilsner,330,6.0,1850,Maudite,408
+1446,"Merican Ale",1000,9.8,1520,"Oaked Arrogant Bastard Ale",462
+1447,"India Pale Ale",330,9.07,1020,"Péché Mortel",274
+1448,"Amber Hybrid Beer",750,3.2,8020,"Sierra Nevada Bigfoot Barleywine Style Ale",78
+1449,"German Wheat And Rye Beer",1000,0.78,1290,"Dreadnaught IPA",414
+1450,"Belgian And French Ale",1000,7.32,590,"Weihenstephaner Hefeweissbier",237
+1451,"English Pale Ale",5000,8.07,1050,"Stone Imperial Russian Stout",117
+1452,"European Amber Lager",500,0.22,8030,Hennepin,179
+1453,"Amber Hybrid Beer",330,1.58,590,"Orval Trappist Ale",423
+1454,"European Amber Lager",330,7.75,530,"90 Minute IPA",249
+1455,"Light Lager",5000,2.23,8030,"Trappistes Rochefort 10",102
+1456,"English Pale Ale",5000,4.59,2080,"Delirium Tremens",263
+1457,Bock,1000,6.51,1040,"St. Bernardus Abt 12",32
+1458,Stout,1000,2.85,1240,"Trappistes Rochefort 10",63
+1459,"Wood-aged Beer",1000,7.4,1580,"Ten FIDY",315
+1460,"Belgian Strong Ale",5000,11.64,1050,"Dreadnaught IPA",78
+1461,"Belgian Strong Ale",750,7.67,1550,"Ruination IPA",342
+1462,Pilsner,500,5.02,1820,"Bell’s Expedition",297
+1463,"Scottish And Irish Ale",1000,11.8,1080,"Stone Imperial Russian Stout",149
+1464,"German Wheat And Rye Beer",5000,7.76,2080,"Sierra Nevada Bigfoot Barleywine Style Ale",488
+1465,"English Pale Ale",1000,6.96,2820,"Trappistes Rochefort 8",72
+1466,"English Brown Ale",330,5.48,1280,"Péché Mortel",147
+1467,"Merican Ale",5000,9.13,590,"Pliny The Elder",464
+1468,"Belgian And French Ale",5000,2.01,2880,"La Fin Du Monde",240
+1469,"European Amber Lager",750,5.64,1550,"Hercules Double IPA",193
+1470,"English Pale Ale",1000,4.14,1840,"Weihenstephaner Hefeweissbier",282
+1471,"Belgian Strong Ale",750,3.56,1030,"90 Minute IPA",290
+1472,"Belgian And French Ale",330,0.47,2090,"Racer 5 India Pale Ale, Bear Republic Bre",423
+1473,"India Pale Ale",500,11.72,540,"Old Rasputin Russian Imperial Stout",190
+1474,Smoke-flavored,5000,12.24,1520,Maharaj,195
+1475,Stout,500,2.89,8050,"Westmalle Trappist Tripel",73
+1476,Porter,1000,0.05,1020,"Trappistes Rochefort 10",418
+1477,Porter,500,10.29,2020,"Schneider Aventinus",10
+1478,"Light Lager",750,12.31,2050,"HopSlam Ale",268
+1479,"Merican Ale",1000,9.32,1590,"HopSlam Ale",429
+1480,"Wood-aged Beer",1000,9.62,8020,"Bell’s Expedition",100
+1481,"Belgian And French Ale",750,8.29,1230,"Westmalle Trappist Tripel",306
+1482,"Belgian Strong Ale",5000,5.72,2890,"Bell’s Expedition",381
+1483,"Wood-aged Beer",750,8.24,1590,"Trappistes Rochefort 10",491
+1484,"Merican Ale",500,8.36,2090,"Arrogant Bastard Ale",162
+1485,"Dark Lager",500,7.92,550,"Trois Pistoles",182
+1486,"India Pale Ale",330,11.44,1580,"Samuel Smith’s Oatmeal Stout",477
+1487,"Dark Lager",5000,6.72,1090,"Stone Imperial Russian Stout",445
+1488,"European Amber Lager",5000,6.56,1290,"Bell’s Expedition",356
+1489,"Belgian Strong Ale",750,3.66,2840,"Schneider Aventinus",461
+1490,"Amber Hybrid Beer",750,10.2,2830,"Stone Imperial Russian Stout",52
+1491,"India Pale Ale",5000,7.67,530,"Sapporo Premium",126
+1492,Stout,330,10.34,1050,"Ruination IPA",336
+1493,Stout,330,3.04,580,"HopSlam Ale",433
+1494,"Belgian And French Ale",750,7.9,2840,"Kirin Inchiban",217
+1495,"Wood-aged Beer",5000,10.34,1840,"Ten FIDY",66
+1496,"Wood-aged Beer",750,10.12,2090,"Alpha King Pale Ale",368
+1497,"Belgian Strong Ale",1000,5.03,2840,"Hercules Double IPA",159
+1498,"English Pale Ale",500,4.16,1520,"Brooklyn Black",17
+1499,"Belgian Strong Ale",1000,11.51,2030,"Dreadnaught IPA",76
+1500,"India Pale Ale",5000,1.59,2020,"Sierra Nevada Celebration Ale",184
+1501,"Wood-aged Beer",5000,8.52,1880,"Arrogant Bastard Ale",367
+1502,Smoke-flavored,5000,0.89,1540,"Oak Aged Yeti Imperial Stout",267
+1503,"India Pale Ale",330,12.19,1080,"Trois Pistoles",162
+1504,Stout,500,5.33,2890,"St. Bernardus Abt 12",349
+1505,Smoke-flavored,1000,10.97,1240,"HopSlam Ale",384
+1506,"Wood-aged Beer",750,3.46,1090,"Samuel Smith’s Oatmeal Stout",34
+1507,Pilsner,1000,6.39,1880,"Delirium Tremens",320
+1508,"Scottish And Irish Ale",500,9.49,1890,"Samuel Smith’s Imperial IPA",231
+1509,"Vegetable Beer",5000,11.26,1890,"Sierra Nevada Celebration Ale",162
+1510,"German Wheat And Rye Beer",500,6.83,1590,"Delirium Tremens",170
+1511,"Dark Lager",1000,2.2,2820,"Trois Pistoles",81
+1512,"Strong Ale",1000,0.59,1590,"Samuel Smith’s Oatmeal Stout",434
+1513,"Belgian Strong Ale",5000,5.41,2890,"Oak Aged Yeti Imperial Stout",331
+1514,"Vegetable Beer",1000,10.95,2090,"Brooklyn Black",126
+1515,Stout,1000,9.21,1230,Maharaj,70
+1516,"Sour Ale",500,12.19,8080,"Sierra Nevada Bigfoot Barleywine Style Ale",372
+1517,"European Amber Lager",1000,10.89,590,"Samuel Smith’s Oatmeal Stout",309
+1518,"Scottish And Irish Ale",330,3.07,1080,"Sapporo Premium",484
+1519,"Merican Ale",1000,7.38,2080,Duvel,256
+1520,"Fruit Beer",5000,7.82,1090,Duvel,17
+1521,"Amber Hybrid Beer",330,11.49,2840,"Dreadnaught IPA",162
+1522,"European Amber Lager",750,11.03,1020,"Pliny The Elder",191
+1523,"English Brown Ale",5000,1.02,1540,Duvel,453
+1524,"Wood-aged Beer",1000,1.42,2850,"Alpha King Pale Ale",431
+1525,"Strong Ale",5000,1.24,1840,"Sierra Nevada Bigfoot Barleywine Style Ale",480
+1526,"Dark Lager",1000,3.77,1580,"Chocolate St",173
+1527,"Merican Ale",5000,11.76,2050,"Pliny The Elder",47
+1528,"India Pale Ale",330,3.54,2020,"Bell’s Expedition",493
+1529,"Belgian Strong Ale",500,2.04,2880,"La Fin Du Monde",71
+1530,Stout,330,12.99,1820,"Samuel Smith’s Imperial IPA",175
+1531,"Merican Ale",750,2.15,1220,"Samuel Smith’s Oatmeal Stout",340
+1532,"India Pale Ale",500,5.19,8080,"Delirium Noctorum",187
+1533,Bock,1000,7.37,1530,"Delirium Noctorum",36
+1534,"Dark Lager",5000,6.7,1240,"Ruination IPA",447
+1535,Bock,500,4.58,1020,"Weihenstephaner Hefeweissbier",262
+1536,Smoke-flavored,750,8.36,1820,"Alpha King Pale Ale",1
+1537,"Merican Ale",750,11.61,2880,"Schneider Aventinus",329
+1538,"Wood-aged Beer",1000,5.26,1290,"Chimay Grande Réserve",167
+1539,Pilsner,750,4.69,1290,Maharaj,82
+1540,"English Pale Ale",500,3.93,1230,"Péché Mortel",358
+1541,Porter,330,3.29,1580,"Delirium Tremens",242
+1542,"Belgian Strong Ale",750,4.73,8040,"HopSlam Ale",417
+1543,"Belgian And French Ale",5000,10.71,1230,"HopSlam Ale",131
+1544,"Vegetable Beer",500,0.03,2820,"Shakespeare Oatmeal",421
+1545,"Fruit Beer",1000,9.99,530,"Samuel Smith’s Oatmeal Stout",186
+1546,"Light Hybrid Beer",330,12.61,8030,"Chocolate St",177
+1547,"Scottish And Irish Ale",500,5.7,1520,"Stone Imperial Russian Stout",145
+1548,Bock,5000,1.75,8080,"Celebrator Doppelbock",221
+1549,"India Pale Ale",750,9.01,1250,"Storm King Stout",354
+1550,Pilsner,500,12.31,2030,"Old Rasputin Russian Imperial Stout",56
+1551,"European Amber Lager",1000,0.15,2820,"Oak Aged Yeti Imperial Stout",197
+1552,"Merican Ale",5000,8.6,1840,"Two Hearted Ale",19
+1553,Bock,5000,10.71,8020,"Samuel Smith’s Oatmeal Stout",88
+1554,"Vegetable Beer",330,5.72,2880,"Delirium Tremens",277
+1555,"Scottish And Irish Ale",1000,0.06,1850,"Brooklyn Black",240
+1556,"Light Hybrid Beer",1000,5.86,2040,"Sublimely Self-Righteous Ale",166
+1557,"German Wheat And Rye Beer",500,8.91,1530,"Sapporo Premium",70
+1558,"Strong Ale",5000,10.2,1090,"Ruination IPA",176
+1559,"Sour Ale",5000,1.3,2050,"Samuel Smith’s Imperial IPA",233
+1560,"India Pale Ale",750,4.15,2050,"Two Hearted Ale",365
+1561,"Wood-aged Beer",1000,12.09,8020,"Dreadnaught IPA",155
+1562,"Merican Ale",750,5.38,8030,"Dreadnaught IPA",378
+1563,"Light Hybrid Beer",750,9.37,2050,"Westmalle Trappist Tripel",199
+1564,Smoke-flavored,1000,7.14,1580,"Sublimely Self-Righteous Ale",220
+1565,Smoke-flavored,5000,11.32,1840,"Oaked Arrogant Bastard Ale",243
+1566,Pilsner,5000,0.57,1050,"St. Bernardus Abt 12",45
+1567,"India Pale Ale",500,6.54,8090,"Trois Pistoles",3
+1568,"Amber Hybrid Beer",330,3.24,2850,"Old Rasputin Russian Imperial Stout",169
+1569,Smoke-flavored,500,6.96,580,Hennepin,446
+1570,"German Wheat And Rye Beer",500,1.99,1030,"Hop Rod Rye",110
+1571,"European Amber Lager",5000,6.74,8050,Maudite,161
+1572,"Strong Ale",1000,11.29,2050,"Samuel Smith’s Imperial IPA",375
+1573,"Belgian Strong Ale",750,11.93,2830,"Samuel Smith’s Imperial IPA",478
+1574,"European Amber Lager",750,2.21,1030,"Sierra Nevada Bigfoot Barleywine Style Ale",134
+1575,"Light Hybrid Beer",750,2.38,1850,"Brooklyn Black",211
+1576,"Sour Ale",750,8.86,2830,"Shakespeare Oatmeal",21
+1577,Pilsner,750,1.95,8090,"Sapporo Premium",296
+1578,Porter,5000,8.25,1520,"Trois Pistoles",123
+1579,Pilsner,330,2.07,1090,"Hop Rod Rye",307
+1580,"Belgian Strong Ale",500,1.56,1590,"Weihenstephaner Hefeweissbier",261
+1581,"Dark Lager",330,0.6,1090,"Trois Pistoles",297
+1582,"Vegetable Beer",5000,6.5,1040,"Chimay Grande Réserve",442
+1583,"India Pale Ale",500,2.74,8040,"Sublimely Self-Righteous Ale",61
+1584,"Scottish And Irish Ale",750,5.53,1550,"Bell’s Expedition",393
+1585,"English Pale Ale",330,1.56,8030,"Racer 5 India Pale Ale, Bear Republic Bre",461
+1586,"Amber Hybrid Beer",5000,4.75,2050,"Trappistes Rochefort 8",195
+1587,"European Amber Lager",500,5.76,1020,"Trappistes Rochefort 8",360
+1588,"English Pale Ale",330,6.71,1580,Hennepin,362
+1589,"Sour Ale",330,12.5,2090,"Yeti Imperial Stout",72
+1590,"English Brown Ale",330,7.9,1090,"Stone IPA",42
+1591,"Strong Ale",5000,4.33,1820,"Sublimely Self-Righteous Ale",446
+1592,"Vegetable Beer",750,2.59,2880,"Schneider Aventinus",86
+1593,"English Pale Ale",5000,5.61,1290,"Pliny The Elder",259
+1594,"India Pale Ale",330,9.93,2090,"Racer 5 India Pale Ale, Bear Republic Bre",319
+1595,"English Brown Ale",330,7.93,2040,"Nugget Nectar",123
+1596,"Light Lager",330,6.48,8040,"Alpha King Pale Ale",387
+1597,"Belgian And French Ale",500,3.06,1240,"Sierra Nevada Celebration Ale",233
+1598,"Belgian And French Ale",330,9.63,1590,"Edmund Fitzgerald Porter",485
+1599,"Dark Lager",5000,12.72,8090,"Delirium Tremens",358
+1600,"Amber Hybrid Beer",5000,10.52,2020,"Bourbon County Stout",218
+1601,"Light Lager",750,0.77,2890,"Celebrator Doppelbock",215
+1602,Porter,330,3.38,1020,"Founders Breakfast Stout",322
+1603,"India Pale Ale",1000,12.61,1880,"Chimay Grande Réserve",357
+1604,"Merican Ale",1000,9.89,1280,"Westmalle Trappist Tripel",63
+1605,"Merican Ale",330,1.4,1050,"Pliny The Elder",411
+1606,"Belgian And French Ale",500,11.74,520,"Hop Rod Rye",302
+1607,Porter,330,1.19,2040,Maudite,302
+1608,"India Pale Ale",5000,6.23,1280,"Storm King Stout",211
+1609,"Dark Lager",330,5.31,1080,"Arrogant Bastard Ale",177
+1610,"Light Lager",750,1.09,1090,"HopSlam Ale",164
+1611,"India Pale Ale",750,9.5,1840,"Founders Breakfast Stout",241
+1612,"Wood-aged Beer",500,12.2,8090,"Péché Mortel",49
+1613,"Light Hybrid Beer",500,0.1,8030,"Stone Imperial Russian Stout",459
+1614,"Light Lager",500,10.89,8040,"Founders Breakfast Stout",238
+1615,"Sour Ale",750,8.04,1840,"Alpha King Pale Ale",424
+1616,"Merican Ale",5000,2.86,1830,"Schneider Aventinus",125
+1617,"Strong Ale",750,10.55,8050,"Racer 5 India Pale Ale, Bear Republic Bre",377
+1618,"Sour Ale",500,10.11,2830,"La Fin Du Monde",30
+1619,"Strong Ale",1000,1.24,2890,"HopSlam Ale",298
+1620,"Belgian Strong Ale",750,7.13,2820,"Kirin Inchiban",136
+1621,"Amber Hybrid Beer",330,3.31,8080,"Celebrator Doppelbock",133
+1622,"Dark Lager",330,8.17,1590,"Trappistes Rochefort 8",129
+1623,"Light Hybrid Beer",750,2.23,1880,"La Fin Du Monde",277
+1624,"Scottish And Irish Ale",1000,8.87,2020,"Alpha King Pale Ale",410
+1625,"Light Hybrid Beer",330,9.94,2020,"Yeti Imperial Stout",250
+1626,"Scottish And Irish Ale",750,12.39,1840,"Hercules Double IPA",286
+1627,"German Wheat And Rye Beer",5000,6.46,8090,"Arrogant Bastard Ale",35
+1628,"Merican Ale",500,0.08,8030,"Hop Rod Rye",175
+1629,Porter,330,9.9,1820,"Stone IPA",355
+1630,"Belgian And French Ale",500,4.74,520,"HopSlam Ale",306
+1631,"Strong Ale",500,8.98,2840,"Trappistes Rochefort 10",363
+1632,"German Wheat And Rye Beer",1000,6.58,2080,"Nugget Nectar",241
+1633,"Sour Ale",330,2.52,1020,"Founders Breakfast Stout",402
+1634,"Belgian Strong Ale",750,7.0,2830,"Hop Rod Rye",261
+1635,"Strong Ale",500,11.6,580,"Yeti Imperial Stout",81
+1636,"Light Hybrid Beer",330,9.06,520,"Arrogant Bastard Ale",2
+1637,"Belgian Strong Ale",5000,4.35,590,"Storm King Stout",231
+1638,"Belgian And French Ale",330,1.37,1830,"Trappistes Rochefort 10",307
+1639,Bock,500,12.15,8090,Maharaj,89
+1640,"English Brown Ale",330,3.7,2020,"Hercules Double IPA",230
+1641,Porter,330,4.11,8040,"Sierra Nevada Bigfoot Barleywine Style Ale",481
+1642,"Vegetable Beer",500,6.82,2830,"Pliny The Elder",16
+1643,Pilsner,750,7.1,1250,"Sapporo Premium",94
+1644,"Dark Lager",330,1.43,2840,"Double Bastard Ale",323
+1645,Porter,1000,11.7,2890,"Trappistes Rochefort 8",247
+1646,"Dark Lager",5000,8.49,530,"Bourbon County Stout",413
+1647,"English Pale Ale",750,4.96,2830,"Trappistes Rochefort 10",68
+1648,"Scottish And Irish Ale",5000,7.18,530,"Ruination IPA",498
+1649,"European Amber Lager",1000,1.71,550,"Celebrator Doppelbock",397
+1650,"German Wheat And Rye Beer",330,1.23,2090,"Péché Mortel",377
+1651,"Dark Lager",330,3.44,2820,"Ten FIDY",438
+1652,"Dark Lager",5000,7.29,1590,"La Fin Du Monde",106
+1653,Pilsner,330,6.17,2880,"St. Bernardus Abt 12",79
+1654,"English Pale Ale",500,7.66,1850,"Dreadnaught IPA",340
+1655,Bock,330,8.2,2890,"Storm King Stout",369
+1656,"Light Lager",5000,1.09,2030,"HopSlam Ale",154
+1657,"Light Lager",750,3.85,530,"Sapporo Premium",241
+1658,Bock,330,5.42,2090,"Samuel Smith’s Imperial IPA",270
+1659,"English Pale Ale",1000,2.4,2030,"Hop Rod Rye",423
+1660,"Vegetable Beer",330,12.14,2030,"La Fin Du Monde",472
+1661,"India Pale Ale",500,0.66,550,"Trois Pistoles",491
+1662,"Belgian Strong Ale",5000,7.48,8080,"Sapporo Premium",432
+1663,Smoke-flavored,500,12.75,1230,"Stone IPA",9
+1664,Porter,5000,3.99,1030,"Celebrator Doppelbock",157
+1665,"Light Hybrid Beer",500,8.43,2890,"Old Rasputin Russian Imperial Stout",314
+1666,Porter,750,4.43,1220,"Stone Imperial Russian Stout",308
+1667,"English Brown Ale",5000,6.39,1890,"Arrogant Bastard Ale",165
+1668,Bock,1000,11.02,1280,"Weihenstephaner Hefeweissbier",498
+1669,"Merican Ale",750,2.23,550,"Oaked Arrogant Bastard Ale",468
+1670,"English Brown Ale",5000,0.24,1230,"Samuel Smith’s Imperial IPA",174
+1671,"Dark Lager",500,8.62,1220,"Brooklyn Black",47
+1672,"Light Lager",750,2.7,8020,"Westmalle Trappist Tripel",190
+1673,"Amber Hybrid Beer",500,11.55,8020,"Weihenstephaner Hefeweissbier",463
+1674,Porter,1000,0.56,2820,"Racer 5 India Pale Ale, Bear Republic Bre",460
+1675,"Belgian Strong Ale",750,5.61,1020,"Samuel Smith’s Imperial IPA",280
+1676,"Scottish And Irish Ale",750,9.58,2040,"Arrogant Bastard Ale",134
+1677,"Merican Ale",330,12.38,1250,"Ruination IPA",371
+1678,"European Amber Lager",1000,11.5,1580,"Two Hearted Ale",259
+1679,Porter,1000,11.8,1020,"Bell’s Expedition",483
+1680,"European Amber Lager",1000,1.64,2840,"Weihenstephaner Hefeweissbier",164
+1681,"Fruit Beer",1000,6.64,2880,"Hop Rod Rye",68
+1682,"Strong Ale",500,5.9,1030,"Dreadnaught IPA",284
+1683,"Merican Ale",750,9.5,2050,"Bell’s Expedition",40
+1684,Bock,5000,9.67,2080,"Founders Breakfast Stout",359
+1685,Pilsner,330,7.5,1550,"Schneider Aventinus",246
+1686,"Belgian And French Ale",500,3.83,1080,"Bell’s Expedition",398
+1687,"Dark Lager",1000,10.63,8050,"Delirium Noctorum",316
+1688,"European Amber Lager",750,12.72,1850,"90 Minute IPA",247
+1689,"Light Lager",750,5.69,8090,"Westmalle Trappist Tripel",142
+1690,"English Pale Ale",330,0.14,2020,"Bell’s Expedition",447
+1691,"Vegetable Beer",500,5.64,2040,"Stone Imperial Russian Stout",316
+1692,"Dark Lager",330,10.59,8020,"Arrogant Bastard Ale",441
+1693,Bock,750,2.39,1850,"Kirin Inchiban",259
+1694,"English Brown Ale",750,7.65,1080,"Trappistes Rochefort 10",272
+1695,"Amber Hybrid Beer",330,11.51,2880,"Sierra Nevada Bigfoot Barleywine Style Ale",480
+1696,"Belgian And French Ale",500,2.46,2850,"Westmalle Trappist Tripel",279
+1697,"Vegetable Beer",750,8.21,1240,"Orval Trappist Ale",62
+1698,"Light Lager",750,6.22,8090,"Storm King Stout",187
+1699,Smoke-flavored,500,12.07,550,"Oak Aged Yeti Imperial Stout",488
+1700,"Wood-aged Beer",1000,10.29,1530,"Hop Rod Rye",144
+1701,Smoke-flavored,5000,7.91,1890,"Bourbon County Stout",347
+1702,"Wood-aged Beer",5000,6.19,1240,"Founders Breakfast Stout",218
+1703,"Fruit Beer",330,4.22,1290,Maudite,149
+1704,"Merican Ale",750,7.0,8030,"Trappistes Rochefort 10",44
+1705,Porter,330,8.41,1030,"La Fin Du Monde",488
+1706,"Sour Ale",500,4.62,1220,"Sublimely Self-Righteous Ale",376
+1707,Stout,500,2.97,1050,"Delirium Noctorum",249
+1708,"Light Hybrid Beer",1000,5.65,2030,"Samuel Smith’s Imperial IPA",390
+1709,"Strong Ale",5000,3.69,2830,"Chimay Grande Réserve",298
+1710,Smoke-flavored,500,4.66,8020,Duvel,9
+1711,Stout,500,1.93,1050,"Weihenstephaner Hefeweissbier",318
+1712,"Belgian And French Ale",750,11.98,1590,"Brooklyn Black",479
+1713,Smoke-flavored,330,12.1,1040,"Arrogant Bastard Ale",453
+1714,"German Wheat And Rye Beer",5000,2.03,1030,"Weihenstephaner Hefeweissbier",331
+1715,"Fruit Beer",1000,5.51,1040,"Founders Kentucky Breakfast",217
+1716,Stout,5000,9.85,1090,"Ruination IPA",357
+1717,"Merican Ale",1000,4.79,1030,"Westmalle Trappist Tripel",312
+1718,"Merican Ale",750,3.99,2030,"Delirium Noctorum",330
+1719,"Strong Ale",750,6.23,2830,"Double Bastard Ale",45
+1720,"India Pale Ale",5000,5.46,1850,"Oaked Arrogant Bastard Ale",400
+1721,"Light Lager",1000,9.55,1080,"Double Bastard Ale",147
+1722,"Sour Ale",5000,12.75,1280,"Arrogant Bastard Ale",23
+1723,"Light Lager",750,0.54,2820,"Brooklyn Black",362
+1724,"Light Hybrid Beer",1000,9.16,1590,"Sublimely Self-Righteous Ale",353
+1725,"Merican Ale",5000,7.73,1080,"Hercules Double IPA",89
+1726,"Belgian Strong Ale",5000,2.73,530,"Double Bastard Ale",63
+1727,Pilsner,5000,6.97,8020,"Shakespeare Oatmeal",292
+1728,Pilsner,5000,11.54,2850,"Schneider Aventinus",367
+1729,Pilsner,750,0.5,1290,"Bell’s Expedition",464
+1730,Pilsner,5000,3.14,580,"Racer 5 India Pale Ale, Bear Republic Bre",43
+1731,"Light Lager",500,10.36,1090,"Trappistes Rochefort 10",449
+1732,"Dark Lager",5000,12.37,1850,"Samuel Smith’s Imperial IPA",95
+1733,"Strong Ale",750,8.05,1890,"Trois Pistoles",113
+1734,"Sour Ale",330,1.11,2830,"Yeti Imperial Stout",216
+1735,Pilsner,5000,0.99,1040,"Delirium Noctorum",127
+1736,"English Brown Ale",330,7.95,8040,"Péché Mortel",389
+1737,"Amber Hybrid Beer",500,7.18,1230,"Sapporo Premium",228
+1738,"English Brown Ale",330,8.95,1080,"Chimay Grande Réserve",270
+1739,"Vegetable Beer",1000,7.99,8080,"Bourbon County Stout",238
+1740,"Amber Hybrid Beer",330,10.02,2020,"Stone Imperial Russian Stout",268
+1741,Porter,330,12.74,1880,"Pliny The Elder",188
+1742,Pilsner,5000,10.62,8020,"Founders Breakfast Stout",313
+1743,"Fruit Beer",330,8.98,2880,"La Fin Du Monde",126
+1744,"Merican Ale",1000,5.17,1540,"Arrogant Bastard Ale",333
+1745,"Dark Lager",5000,1.17,2880,Hennepin,418
+1746,"European Amber Lager",750,1.02,8020,"St. Bernardus Abt 12",322
+1747,"Amber Hybrid Beer",500,10.88,8090,"Schneider Aventinus",407
+1748,"Belgian And French Ale",330,11.21,1550,"Chimay Grande Réserve",117
+1749,Porter,750,7.11,8030,Maudite,421
+1750,"Merican Ale",5000,12.37,1890,"Samuel Smith’s Imperial IPA",356
+1751,"Dark Lager",1000,0.07,1830,"Trappistes Rochefort 10",159
+1752,"Fruit Beer",500,10.63,580,"Péché Mortel",234
+1753,"German Wheat And Rye Beer",750,7.87,8040,"Arrogant Bastard Ale",239
+1754,"English Brown Ale",750,0.91,1250,"St. Bernardus Abt 12",176
+1755,"Vegetable Beer",5000,5.84,2080,"Old Rasputin Russian Imperial Stout",167
+1756,"European Amber Lager",1000,1.42,2850,"Ten FIDY",177
+1757,"English Pale Ale",1000,7.16,1250,"Weihenstephaner Hefeweissbier",258
+1758,"Belgian And French Ale",330,11.87,2840,"Bourbon County Stout",209
+1759,Pilsner,1000,5.8,1590,"Founders Kentucky Breakfast",494
+1760,"Sour Ale",750,11.01,1890,"Trois Pistoles",328
+1761,Bock,1000,0.96,8080,"Sierra Nevada Bigfoot Barleywine Style Ale",97
+1762,"Amber Hybrid Beer",500,7.02,1040,"Shakespeare Oatmeal",471
+1763,"Vegetable Beer",500,9.29,1840,"Schneider Aventinus",33
+1764,"Belgian Strong Ale",5000,4.42,1090,"Samuel Smith’s Oatmeal Stout",160
+1765,"English Pale Ale",330,6.52,1040,"Double Bastard Ale",364
+1766,"Vegetable Beer",330,3.5,8080,"Trappistes Rochefort 10",80
+1767,Pilsner,330,2.13,2890,"Pliny The Elder",328
+1768,"Merican Ale",500,4.91,1040,"Shakespeare Oatmeal",237
+1769,"Light Lager",330,5.94,1580,"Trois Pistoles",44
+1770,"European Amber Lager",500,10.81,1080,"Westmalle Trappist Tripel",394
+1771,"Merican Ale",5000,4.59,1850,"Trappistes Rochefort 10",157
+1772,"Vegetable Beer",750,10.92,1220,"Trappistes Rochefort 10",5
+1773,"Amber Hybrid Beer",500,10.1,1050,"Arrogant Bastard Ale",176
+1774,"Scottish And Irish Ale",750,12.24,1850,"Shakespeare Oatmeal",292
+1775,"Light Hybrid Beer",750,8.98,2080,"Brooklyn Black",447
+1776,"Light Lager",5000,11.73,1090,"HopSlam Ale",249
+1777,"India Pale Ale",1000,2.97,8020,"Dreadnaught IPA",277
+1778,"Sour Ale",1000,12.2,2820,"Weihenstephaner Hefeweissbier",45
+1779,"Dark Lager",330,12.91,1820,"Sapporo Premium",432
+1780,"Fruit Beer",330,8.13,2030,"Stone IPA",2
+1781,"English Brown Ale",1000,0.3,2890,"Trappistes Rochefort 10",413
+1782,"India Pale Ale",330,1.36,2830,"Edmund Fitzgerald Porter",480
+1783,Bock,500,11.19,2030,Maharaj,225
+1784,Smoke-flavored,1000,12.29,1090,"Sierra Nevada Bigfoot Barleywine Style Ale",50
+1785,Porter,5000,5.73,2040,"Storm King Stout",218
+1786,"Belgian And French Ale",1000,10.07,1520,"Edmund Fitzgerald Porter",358
+1787,"Light Lager",330,11.19,1090,"Sapporo Premium",197
+1788,"Dark Lager",1000,10.53,1580,"Founders Kentucky Breakfast",219
+1789,Bock,1000,11.83,1540,"Arrogant Bastard Ale",379
+1790,"English Pale Ale",500,12.77,2090,"Storm King Stout",425
+1791,"Merican Ale",750,4.56,580,"Kirin Inchiban",188
+1792,"Amber Hybrid Beer",330,10.54,8080,"St. Bernardus Abt 12",57
+1793,"Sour Ale",5000,6.84,8040,"Trappistes Rochefort 10",147
+1794,"Fruit Beer",5000,0.05,2880,"Ruination IPA",9
+1795,Bock,750,6.69,540,"Sublimely Self-Righteous Ale",268
+1796,"Fruit Beer",750,0.09,1520,"Double Bastard Ale",334
+1797,Bock,5000,8.91,2890,"Racer 5 India Pale Ale, Bear Republic Bre",172
+1798,"Light Hybrid Beer",5000,2.12,2080,"Chimay Grande Réserve",366
+1799,"Wood-aged Beer",5000,2.46,2820,"Edmund Fitzgerald Porter",47
+1800,"Wood-aged Beer",1000,7.87,2030,"Sierra Nevada Bigfoot Barleywine Style Ale",55
+1801,"Light Hybrid Beer",500,10.83,8030,"Trappistes Rochefort 10",357
+1802,Stout,330,6.22,1090,"Sierra Nevada Bigfoot Barleywine Style Ale",384
+1803,"English Pale Ale",500,6.06,530,"Chocolate St",345
+1804,"Fruit Beer",1000,12.79,1580,"Weihenstephaner Hefeweissbier",264
+1805,"Scottish And Irish Ale",500,5.01,8080,"Alpha King Pale Ale",122
+1806,Porter,330,0.62,1040,"Kirin Inchiban",203
+1807,"Amber Hybrid Beer",5000,0.14,1850,"Sublimely Self-Righteous Ale",394
+1808,Pilsner,5000,7.82,580,"Samuel Smith’s Oatmeal Stout",101
+1809,Smoke-flavored,500,0.56,540,"Orval Trappist Ale",204
+1810,"Light Hybrid Beer",330,1.71,8050,"Alpha King Pale Ale",437
+1811,"Vegetable Beer",750,2.83,1880,"Trois Pistoles",346
+1812,"Strong Ale",5000,7.73,550,"Sublimely Self-Righteous Ale",90
+1813,"Merican Ale",1000,2.63,2090,"Stone IPA",339
+1814,"Vegetable Beer",330,7.8,2020,"Péché Mortel",263
+1815,"English Brown Ale",500,6.69,1820,"Celebrator Doppelbock",4
+1816,"Belgian And French Ale",330,0.98,8080,"Nugget Nectar",461
+1817,Pilsner,5000,6.73,1040,"Founders Kentucky Breakfast",3
+1818,"Strong Ale",330,9.95,1520,"Alpha King Pale Ale",284
+1819,"English Pale Ale",500,5.88,530,"Oak Aged Yeti Imperial Stout",166
+1820,"German Wheat And Rye Beer",5000,3.95,1250,Maharaj,93
+1821,Bock,500,0.32,1830,"Storm King Stout",130
+1822,"Dark Lager",5000,5.0,2820,"Double Bastard Ale",366
+1823,"Light Lager",330,0.1,1240,"Oak Aged Yeti Imperial Stout",289
+1824,"Wood-aged Beer",330,4.92,2850,"Bell’s Expedition",179
+1825,"Fruit Beer",5000,12.21,1050,"St. Bernardus Abt 12",343
+1826,Stout,5000,3.96,8090,Maharaj,93
+1827,Bock,5000,1.65,540,"Péché Mortel",320
+1828,"English Pale Ale",500,11.81,550,"Trois Pistoles",243
+1829,Smoke-flavored,1000,11.5,1890,"Stone Imperial Russian Stout",484
+1830,"Belgian Strong Ale",1000,5.77,1530,"Sierra Nevada Bigfoot Barleywine Style Ale",126
+1831,Porter,750,9.02,1840,"Schneider Aventinus",496
+1832,"Wood-aged Beer",5000,6.5,1080,"Oaked Arrogant Bastard Ale",111
+1833,"Light Hybrid Beer",500,8.53,1250,"Edmund Fitzgerald Porter",120
+1834,"English Pale Ale",1000,5.65,8020,"Bourbon County Stout",50
+1835,"Vegetable Beer",5000,9.55,2090,"Trappistes Rochefort 8",356
+1836,Porter,330,1.29,580,"Pliny The Elder",245
+1837,Bock,1000,11.63,8040,"Orval Trappist Ale",496
+1838,"Light Hybrid Beer",330,11.72,520,"Péché Mortel",116
+1839,"Vegetable Beer",750,2.5,1830,"Samuel Smith’s Oatmeal Stout",347
+1840,"Light Lager",500,12.59,2030,"Alpha King Pale Ale",132
+1841,"European Amber Lager",5000,6.59,2820,"Chimay Grande Réserve",350
+1842,"Scottish And Irish Ale",5000,1.07,1550,"Péché Mortel",476
+1843,"Scottish And Irish Ale",500,6.96,8090,"Hercules Double IPA",121
+1844,"India Pale Ale",750,11.33,1550,"Chimay Grande Réserve",366
+1845,"Sour Ale",330,7.22,1280,"Nugget Nectar",176
+1846,"Belgian And French Ale",1000,6.11,1090,"Racer 5 India Pale Ale, Bear Republic Bre",259
+1847,"Light Lager",330,4.4,1220,"Oak Aged Yeti Imperial Stout",435
+1848,Stout,1000,3.88,1830,"Hercules Double IPA",181
+1849,Smoke-flavored,500,6.85,550,Hennepin,322
+1850,"Amber Hybrid Beer",5000,3.78,1080,"Samuel Smith’s Imperial IPA",326
+1851,"Amber Hybrid Beer",5000,4.31,8090,"Delirium Noctorum",34
+1852,"Light Hybrid Beer",500,8.06,1030,"Stone IPA",104
+1853,Bock,5000,8.39,1830,"Samuel Smith’s Imperial IPA",193
+1854,"German Wheat And Rye Beer",500,9.26,550,"Brooklyn Black",172
+1855,"Dark Lager",500,7.1,1030,"Samuel Smith’s Oatmeal Stout",477
+1856,Bock,500,5.75,1590,"Racer 5 India Pale Ale, Bear Republic Bre",129
+1857,"English Brown Ale",500,0.03,1840,"Edmund Fitzgerald Porter",68
+1858,"Vegetable Beer",1000,2.01,2850,"Old Rasputin Russian Imperial Stout",107
+1859,"Belgian And French Ale",5000,4.86,1840,"Storm King Stout",93
+1860,Bock,5000,8.79,1830,"Orval Trappist Ale",124
+1861,"Dark Lager",5000,9.58,1220,"Weihenstephaner Hefeweissbier",70
+1862,"Vegetable Beer",750,10.3,2830,"Alpha King Pale Ale",44
+1863,"Wood-aged Beer",330,2.37,1290,"Samuel Smith’s Oatmeal Stout",349
+1864,"European Amber Lager",330,6.66,580,"Bourbon County Stout",448
+1865,Pilsner,500,8.6,1840,"Sublimely Self-Righteous Ale",50
+1866,Porter,5000,6.68,1090,"Hop Rod Rye",160
+1867,Smoke-flavored,750,9.71,1090,"Bourbon County Stout",252
+1868,"German Wheat And Rye Beer",500,9.71,1030,"Racer 5 India Pale Ale, Bear Republic Bre",205
+1869,"Belgian Strong Ale",750,11.34,1550,"Kirin Inchiban",233
+1870,"Scottish And Irish Ale",1000,4.76,2090,"Delirium Noctorum",389
+1871,"Strong Ale",330,2.71,2830,"Hop Rod Rye",202
+1872,"Dark Lager",330,7.97,1220,"Nugget Nectar",381
+1873,"Strong Ale",1000,7.2,2090,"Oaked Arrogant Bastard Ale",313
+1874,Smoke-flavored,330,4.73,1840,"Kirin Inchiban",480
+1875,"Sour Ale",5000,7.85,1030,"Nugget Nectar",370
+1876,Smoke-flavored,5000,5.2,530,"Edmund Fitzgerald Porter",289
+1877,"Merican Ale",5000,12.88,2030,"HopSlam Ale",183
+1878,"Merican Ale",5000,9.56,1230,"Ruination IPA",194
+1879,Bock,750,4.88,1090,"Kirin Inchiban",174
+1880,"Merican Ale",750,11.21,2040,"Oak Aged Yeti Imperial Stout",201
+1881,"English Pale Ale",330,1.91,1290,"Celebrator Doppelbock",46
+1882,"Scottish And Irish Ale",750,9.03,2040,"Weihenstephaner Hefeweissbier",402
+1883,"English Brown Ale",1000,2.26,2840,"Hercules Double IPA",279
+1884,"India Pale Ale",1000,4.37,1220,"Ten FIDY",369
+1885,"Strong Ale",750,4.71,1550,"Sierra Nevada Bigfoot Barleywine Style Ale",158
+1886,"Dark Lager",1000,4.48,2850,"Samuel Smith’s Imperial IPA",284
+1887,"Belgian Strong Ale",330,9.19,2850,"Yeti Imperial Stout",73
+1888,"English Pale Ale",5000,10.24,550,"Stone IPA",411
+1889,Stout,330,5.0,580,"Stone Imperial Russian Stout",78
+1890,"Wood-aged Beer",750,2.13,1230,"Samuel Smith’s Oatmeal Stout",111
+1891,"Belgian And French Ale",1000,11.06,520,"Trappistes Rochefort 10",499
+1892,"Amber Hybrid Beer",1000,7.16,8020,"Two Hearted Ale",298
+1893,"Light Hybrid Beer",5000,12.13,8050,"Brooklyn Black",106
+1894,"Light Hybrid Beer",500,8.15,8020,"Delirium Noctorum",217
+1895,"Merican Ale",1000,4.19,1550,"Double Bastard Ale",228
+1896,"Vegetable Beer",330,5.02,8080,"Delirium Tremens",32
+1897,"Belgian Strong Ale",750,7.71,530,"Kirin Inchiban",258
+1898,"Amber Hybrid Beer",500,9.62,1220,"Storm King Stout",485
+1899,"Light Lager",1000,0.98,2830,"La Fin Du Monde",53
+1900,Smoke-flavored,5000,5.39,1530,"Chocolate St",57
+1901,"Strong Ale",5000,5.81,1050,"Samuel Smith’s Imperial IPA",171
+1902,"Scottish And Irish Ale",1000,5.18,2820,Duvel,397
+1903,"Fruit Beer",1000,7.96,2840,"Storm King Stout",82
+1904,"Vegetable Beer",500,11.3,2020,"Chimay Grande Réserve",374
+1905,Porter,500,3.91,2030,"Dreadnaught IPA",80
+1906,"Merican Ale",1000,7.79,1240,"Storm King Stout",243
+1907,"Fruit Beer",500,5.29,1280,"Samuel Smith’s Imperial IPA",80
+1908,"European Amber Lager",1000,0.64,2080,"Schneider Aventinus",341
+1909,"Scottish And Irish Ale",330,9.28,1590,"Sierra Nevada Celebration Ale",145
+1910,"Light Hybrid Beer",330,1.41,1080,"Samuel Smith’s Oatmeal Stout",60
+1911,"Fruit Beer",500,0.47,1820,"Orval Trappist Ale",264
+1912,"Merican Ale",330,8.94,8040,"Bell’s Expedition",362
+1913,"Merican Ale",500,7.6,1590,"Delirium Tremens",308
+1914,"India Pale Ale",330,2.73,2830,"Ten FIDY",154
+1915,"English Brown Ale",750,12.12,1890,"Samuel Smith’s Imperial IPA",441
+1916,Bock,750,9.7,2080,"Samuel Smith’s Imperial IPA",217
+1917,"English Pale Ale",330,0.53,1250,"Arrogant Bastard Ale",436
+1918,Porter,1000,8.46,1280,"Yeti Imperial Stout",303
+1919,"Vegetable Beer",1000,6.61,1250,Maharaj,121
+1920,"English Brown Ale",750,6.19,1530,"Stone IPA",441
+1921,"Wood-aged Beer",330,7.48,540,"Péché Mortel",8
+1922,"Belgian And French Ale",500,0.25,1820,"Sapporo Premium",354
+1923,"Belgian And French Ale",330,10.42,580,"Trois Pistoles",46
+1924,Porter,330,7.14,2050,"Storm King Stout",170
+1925,"English Brown Ale",330,10.37,1050,"St. Bernardus Abt 12",199
+1926,"Vegetable Beer",500,0.61,1280,"Sierra Nevada Bigfoot Barleywine Style Ale",85
+1927,"Wood-aged Beer",5000,1.54,1290,"Trois Pistoles",215
+1928,"European Amber Lager",330,7.47,1090,"Arrogant Bastard Ale",25
+1929,"Scottish And Irish Ale",1000,7.64,540,"Storm King Stout",107
+1930,Porter,5000,0.59,1050,"Trappistes Rochefort 10",500
+1931,"Vegetable Beer",5000,7.37,2080,"HopSlam Ale",357
+1932,"Scottish And Irish Ale",500,11.55,2090,"Sierra Nevada Bigfoot Barleywine Style Ale",383
+1933,"German Wheat And Rye Beer",750,10.24,1040,Maudite,297
+1934,"India Pale Ale",1000,5.84,2030,"Chocolate St",246
+1935,"Belgian Strong Ale",500,0.94,2850,"Nugget Nectar",261
+1936,"Fruit Beer",1000,7.61,8040,"Oaked Arrogant Bastard Ale",213
+1937,"Merican Ale",5000,2.05,530,Maharaj,27
+1938,"Merican Ale",330,8.2,2890,"HopSlam Ale",328
+1939,"Vegetable Beer",330,6.35,1220,"Edmund Fitzgerald Porter",291
+1940,"Strong Ale",750,5.09,1540,"Oaked Arrogant Bastard Ale",26
+1941,"Strong Ale",1000,0.72,2850,"90 Minute IPA",382
+1942,"Light Hybrid Beer",330,12.62,1230,Maharaj,377
+1943,"Dark Lager",750,6.25,1230,"Delirium Tremens",260
+1944,Porter,500,9.64,2030,"Stone IPA",353
+1945,"Belgian Strong Ale",330,5.48,8090,"Celebrator Doppelbock",386
+1946,"Wood-aged Beer",5000,4.19,1520,"Old Rasputin Russian Imperial Stout",48
+1947,"Merican Ale",750,5.52,2880,"Pliny The Elder",349
+1948,"Light Lager",1000,3.56,520,"Racer 5 India Pale Ale, Bear Republic Bre",48
+1949,Porter,1000,4.15,590,"Westmalle Trappist Tripel",163
+1950,"Light Hybrid Beer",330,11.34,1020,"Sapporo Premium",142
+1951,Porter,1000,12.45,1580,"La Fin Du Monde",84
+1952,"Scottish And Irish Ale",500,10.78,530,"Nugget Nectar",228
+1953,"Vegetable Beer",500,5.24,8020,"Celebrator Doppelbock",292
+1954,"India Pale Ale",500,9.86,580,"Trappistes Rochefort 8",401
+1955,"Amber Hybrid Beer",1000,2.19,1040,"Edmund Fitzgerald Porter",172
+1956,"Amber Hybrid Beer",330,6.34,8020,"Arrogant Bastard Ale",408
+1957,Porter,1000,6.61,1820,"Chimay Grande Réserve",19
+1958,"English Pale Ale",5000,8.3,520,"Two Hearted Ale",499
+1959,"Vegetable Beer",1000,5.11,1240,"Kirin Inchiban",216
+1960,"Wood-aged Beer",750,10.99,8090,"Westmalle Trappist Tripel",239
+1961,Porter,1000,9.48,8050,"Celebrator Doppelbock",353
+1962,"Light Lager",330,5.65,1040,"Pliny The Elder",91
+1963,"Sour Ale",750,0.21,2040,"Oak Aged Yeti Imperial Stout",92
+1964,Smoke-flavored,5000,0.91,580,"Sierra Nevada Bigfoot Barleywine Style Ale",97
+1965,"Fruit Beer",750,0.95,1580,"Chimay Grande Réserve",487
+1966,"German Wheat And Rye Beer",1000,7.53,2090,"Ruination IPA",453
+1967,"Light Lager",1000,3.79,2880,"Stone Imperial Russian Stout",368
+1968,"India Pale Ale",330,5.1,1840,Duvel,82
+1969,"European Amber Lager",1000,2.83,2020,"Two Hearted Ale",450
+1970,"English Pale Ale",5000,4.91,1030,"Schneider Aventinus",310
+1971,Porter,500,0.22,1030,"Ten FIDY",407
+1972,"Light Hybrid Beer",5000,11.71,2020,"St. Bernardus Abt 12",123
+1973,"Belgian And French Ale",750,3.98,1830,"Trois Pistoles",159
+1974,"India Pale Ale",500,12.18,2050,"Brooklyn Black",139
+1975,"Strong Ale",330,6.86,2850,"Stone IPA",55
+1976,"Wood-aged Beer",500,1.66,2820,"Arrogant Bastard Ale",321
+1977,"English Pale Ale",500,9.39,1280,"Ten FIDY",360
+1978,"Strong Ale",750,8.17,1250,"Alpha King Pale Ale",176
+1979,Smoke-flavored,500,10.4,1550,"Oaked Arrogant Bastard Ale",453
+1980,"English Pale Ale",750,5.13,1850,Maudite,22
+1981,"Merican Ale",1000,7.3,1820,"Founders Kentucky Breakfast",354
+1982,"Sour Ale",5000,6.25,2090,"Oaked Arrogant Bastard Ale",222
+1983,"European Amber Lager",1000,0.74,1040,"Trappistes Rochefort 8",34
+1984,"English Brown Ale",330,3.62,580,"Bell’s Expedition",400
+1985,"Strong Ale",330,9.33,530,"Delirium Tremens",54
+1986,"Wood-aged Beer",5000,10.88,1530,"Trappistes Rochefort 8",204
+1987,"Light Lager",5000,4.65,2840,Maudite,308
+1988,"Sour Ale",500,10.8,1020,"Nugget Nectar",397
+1989,"English Pale Ale",5000,5.05,1090,"Double Bastard Ale",202
+1990,"India Pale Ale",500,5.59,1520,"Sublimely Self-Righteous Ale",335
+1991,"Fruit Beer",1000,1.98,1880,"Trappistes Rochefort 8",454
+1992,Porter,500,11.7,1030,"Ruination IPA",395
+1993,"India Pale Ale",5000,7.66,1520,"Samuel Smith’s Oatmeal Stout",156
+1994,"Strong Ale",330,0.78,1580,"Old Rasputin Russian Imperial Stout",468
+1995,"Scottish And Irish Ale",330,5.13,2840,"St. Bernardus Abt 12",63
+1996,"European Amber Lager",1000,10.59,8030,"Shakespeare Oatmeal",205
+1997,"Merican Ale",1000,7.41,530,"Samuel Smith’s Oatmeal Stout",135
+1998,"German Wheat And Rye Beer",330,7.33,2890,"Samuel Smith’s Imperial IPA",390
+1999,"Vegetable Beer",500,8.86,1820,"Pliny The Elder",247
+2000,"Fruit Beer",750,8.38,1530,Hennepin,409

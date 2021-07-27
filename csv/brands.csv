@@ -1,0 +1,500 @@
+1,"Birra Moretti",26
+2,Guinness,31
+3,"Blue Moon",7
+4,"Sierra Nevada",3
+5,"Miller Draft",16
+6,"Stella Artois",13
+7,Guinness,7
+8,Murphys,10
+9,"Red Stripe",11
+10,"Red Stripe",40
+11,"Miller Draft",23
+12,Guinness,1
+13,Hoegaarden,3
+14,Fosters,1
+15,"Stella Artois",27
+16,Sapporo,25
+17,"Miller Draft",16
+18,"Blue Moon",32
+19,Patagonia,13
+20,"Red Stripe",28
+21,"Birra Moretti",21
+22,"Stella Artois",6
+23,Amstel,4
+24,"Corona Extra",29
+25,Tsingtao,35
+26,"Red Stripe",2
+27,Pacifico,27
+28,"Stella Artois",8
+29,"Blue Moon",32
+30,"Stella Artois",30
+31,Budweiser,29
+32,Patagonia,7
+33,Leffe,19
+34,"Samuel Adams",24
+35,Kirin,1
+36,Heineken,3
+37,Amstel,30
+38,"Pabst Blue Ribbon",28
+39,"Sierra Nevada",23
+40,Guinness,39
+41,Paulaner,11
+42,Lowenbrau,27
+43,Becks,29
+44,"Red Stripe",30
+45,"Birra Moretti",14
+46,"Blue Moon",13
+47,"Red Stripe",7
+48,Sapporo,1
+49,Amstel,2
+50,"Red Stripe",39
+51,"Birra Moretti",5
+52,Heineken,4
+53,Paulaner,18
+54,Carlsberg,16
+55,Harp,30
+56,"Red Stripe",10
+57,Delirium,38
+58,"Sierra Nevada",24
+59,Murphys,25
+60,Becks,4
+61,Murphys,22
+62,"Sierra Nevada",18
+63,Budweiser,21
+64,Delirium,28
+65,Tsingtao,17
+66,Guinness,4
+67,"Sierra Nevada",40
+68,Budweiser,35
+69,"Sierra Nevada",21
+70,"Red Stripe",3
+71,Kirin,38
+72,Heineken,15
+73,Amstel,9
+74,Harp,24
+75,Leffe,1
+76,Pacifico,7
+77,"Birra Moretti",27
+78,Tsingtao,24
+79,Murphys,18
+80,"Rolling Rock",11
+81,"Pabst Blue Ribbon",28
+82,BudLight,27
+83,"Miller Draft",1
+84,Leffe,18
+85,Fosters,23
+86,"Miller Draft",36
+87,"Sierra Nevada",9
+88,Becks,29
+89,Pacifico,13
+90,"Red Stripe",33
+91,Becks,1
+92,"Samuel Adams",9
+93,Kirin,13
+94,Leffe,21
+95,"Rolling Rock",20
+96,Carlsberg,27
+97,Patagonia,26
+98,Becks,35
+99,"Birra Moretti",34
+100,"Coors lite",8
+101,"Dos Equis",33
+102,Delirium,16
+103,Patagonia,26
+104,"Dos Equis",24
+105,Heineken,37
+106,Guinness,29
+107,"Corona Extra",28
+108,Kirin,36
+109,"Rolling Rock",24
+110,"Birra Moretti",17
+111,"Red Stripe",32
+112,Kirin,20
+113,Leffe,13
+114,Guinness,37
+115,"Birra Moretti",16
+116,"Sierra Nevada",10
+117,"Miller Draft",37
+118,Budweiser,6
+119,Kirin,5
+120,"Red Stripe",31
+121,Murphys,2
+122,Becks,29
+123,Budweiser,25
+124,Lowenbrau,38
+125,"Dos Equis",12
+126,"Dos Equis",24
+127,Pacifico,20
+128,Becks,27
+129,Tsingtao,16
+130,Delirium,24
+131,Delirium,20
+132,Hoegaarden,37
+133,Patagonia,14
+134,"Rolling Rock",9
+135,Carlsberg,8
+136,Carlsberg,26
+137,Carlsberg,31
+138,Budweiser,2
+139,Hoegaarden,23
+140,"Samuel Adams",9
+141,Heineken,7
+142,Harp,16
+143,"Sierra Nevada",16
+144,Becks,19
+145,"Blue Moon",15
+146,Leffe,27
+147,"Coors lite",21
+148,"Dos Equis",9
+149,Amstel,38
+150,Pacifico,18
+151,"Blue Moon",7
+152,Heineken,12
+153,Heineken,24
+154,Murphys,19
+155,"Corona Extra",9
+156,Tsingtao,8
+157,"Coors lite",11
+158,"Coors lite",26
+159,"Samuel Adams",21
+160,Hoegaarden,6
+161,Carlsberg,7
+162,"Blue Moon",36
+163,Lowenbrau,15
+164,Budweiser,39
+165,"Rolling Rock",30
+166,Guinness,8
+167,"Blue Moon",26
+168,Carlsberg,31
+169,Leffe,40
+170,BudLight,39
+171,"Samuel Adams",23
+172,Carlsberg,1
+173,Quimes,23
+174,Sapporo,36
+175,Delirium,12
+176,Becks,11
+177,Sapporo,36
+178,BudLight,26
+179,Leffe,11
+180,"Corona Extra",35
+181,Fosters,4
+182,Sapporo,22
+183,Murphys,3
+184,Sapporo,4
+185,Guinness,27
+186,"Coors lite",25
+187,"Samuel Adams",13
+188,Pacifico,18
+189,"Miller Draft",29
+190,Guinness,28
+191,Sapporo,14
+192,Fosters,4
+193,"Pabst Blue Ribbon",9
+194,Fosters,37
+195,"Pabst Blue Ribbon",33
+196,"Red Stripe",4
+197,Amstel,12
+198,Leffe,12
+199,"Miller Draft",19
+200,"Dos Equis",20
+201,"Birra Moretti",15
+202,Becks,1
+203,Carlsberg,26
+204,Sapporo,14
+205,Fosters,14
+206,Lowenbrau,37
+207,Carlsberg,35
+208,Leffe,23
+209,Sapporo,28
+210,"Miller Draft",30
+211,Sapporo,27
+212,Quimes,31
+213,Pacifico,16
+214,Paulaner,10
+215,Carlsberg,20
+216,Hoegaarden,6
+217,"Birra Moretti",6
+218,Murphys,5
+219,Amstel,18
+220,Murphys,37
+221,Paulaner,7
+222,Quimes,2
+223,Patagonia,25
+224,"Coors lite",18
+225,"Red Stripe",32
+226,Delirium,3
+227,"Red Stripe",17
+228,"Pabst Blue Ribbon",13
+229,Fosters,37
+230,Amstel,26
+231,Amstel,22
+232,Murphys,8
+233,"Birra Moretti",11
+234,Carlsberg,32
+235,BudLight,30
+236,"Coors lite",9
+237,Harp,25
+238,BudLight,40
+239,Sapporo,37
+240,Sapporo,13
+241,Hoegaarden,33
+242,"Pabst Blue Ribbon",34
+243,Becks,23
+244,Kirin,18
+245,Lowenbrau,23
+246,"Stella Artois",17
+247,Paulaner,4
+248,Patagonia,18
+249,BudLight,5
+250,Becks,15
+251,Harp,28
+252,BudLight,33
+253,Tsingtao,33
+254,Budweiser,29
+255,Lowenbrau,18
+256,"Coors lite",24
+257,Budweiser,4
+258,Leffe,3
+259,Guinness,14
+260,Amstel,3
+261,Delirium,21
+262,Budweiser,7
+263,"Samuel Adams",27
+264,Murphys,30
+265,"Stella Artois",11
+266,Fosters,3
+267,Guinness,5
+268,Guinness,23
+269,Pacifico,7
+270,Fosters,4
+271,"Pabst Blue Ribbon",26
+272,"Samuel Adams",34
+273,"Red Stripe",6
+274,Carlsberg,40
+275,Harp,38
+276,"Corona Extra",5
+277,"Dos Equis",33
+278,"Pabst Blue Ribbon",38
+279,Guinness,25
+280,"Blue Moon",11
+281,"Miller Draft",4
+282,Amstel,32
+283,Guinness,31
+284,"Corona Extra",20
+285,"Stella Artois",35
+286,Murphys,5
+287,"Coors lite",22
+288,Amstel,35
+289,Harp,23
+290,Budweiser,16
+291,Hoegaarden,30
+292,Amstel,35
+293,Leffe,25
+294,"Coors lite",36
+295,Quimes,4
+296,Budweiser,4
+297,Patagonia,22
+298,Patagonia,20
+299,Harp,16
+300,"Pabst Blue Ribbon",2
+301,"Corona Extra",12
+302,Heineken,31
+303,Sapporo,17
+304,Quimes,28
+305,Leffe,18
+306,"Sierra Nevada",23
+307,"Birra Moretti",31
+308,Murphys,10
+309,Harp,22
+310,"Sierra Nevada",31
+311,"Red Stripe",6
+312,"Coors lite",40
+313,"Samuel Adams",12
+314,"Birra Moretti",24
+315,Hoegaarden,1
+316,Quimes,34
+317,"Samuel Adams",1
+318,BudLight,11
+319,Harp,10
+320,Heineken,35
+321,Hoegaarden,7
+322,Paulaner,10
+323,"Blue Moon",2
+324,Sapporo,4
+325,"Samuel Adams",7
+326,"Red Stripe",28
+327,Pacifico,13
+328,Patagonia,1
+329,Fosters,3
+330,Guinness,15
+331,"Blue Moon",8
+332,Tsingtao,38
+333,Becks,8
+334,Pacifico,34
+335,"Sierra Nevada",28
+336,Budweiser,1
+337,Hoegaarden,14
+338,Lowenbrau,29
+339,Leffe,36
+340,"Stella Artois",11
+341,"Pabst Blue Ribbon",15
+342,"Stella Artois",28
+343,Harp,5
+344,Delirium,23
+345,"Sierra Nevada",16
+346,Quimes,30
+347,Tsingtao,18
+348,Budweiser,37
+349,Murphys,21
+350,"Corona Extra",14
+351,"Corona Extra",8
+352,"Birra Moretti",38
+353,"Red Stripe",35
+354,Budweiser,30
+355,"Miller Draft",40
+356,Hoegaarden,25
+357,"Blue Moon",8
+358,Kirin,26
+359,Leffe,31
+360,"Stella Artois",39
+361,Carlsberg,9
+362,Tsingtao,24
+363,Harp,6
+364,Amstel,32
+365,"Red Stripe",21
+366,Tsingtao,4
+367,Sapporo,3
+368,"Coors lite",32
+369,Amstel,21
+370,Lowenbrau,35
+371,Hoegaarden,6
+372,"Pabst Blue Ribbon",3
+373,"Stella Artois",29
+374,Amstel,25
+375,"Coors lite",27
+376,Sapporo,24
+377,"Rolling Rock",3
+378,"Rolling Rock",15
+379,"Red Stripe",26
+380,Harp,6
+381,Paulaner,33
+382,"Pabst Blue Ribbon",28
+383,Harp,16
+384,"Rolling Rock",24
+385,Hoegaarden,32
+386,"Pabst Blue Ribbon",2
+387,"Coors lite",11
+388,Delirium,20
+389,"Corona Extra",13
+390,Heineken,28
+391,Budweiser,19
+392,Budweiser,29
+393,Patagonia,35
+394,"Red Stripe",37
+395,BudLight,11
+396,"Miller Draft",9
+397,Delirium,39
+398,"Miller Draft",28
+399,Becks,21
+400,"Dos Equis",11
+401,Sapporo,38
+402,Budweiser,27
+403,Carlsberg,3
+404,"Birra Moretti",38
+405,"Rolling Rock",4
+406,"Blue Moon",7
+407,"Corona Extra",29
+408,Sapporo,1
+409,Amstel,25
+410,"Sierra Nevada",15
+411,"Red Stripe",34
+412,Delirium,11
+413,"Blue Moon",40
+414,Budweiser,33
+415,Hoegaarden,11
+416,"Pabst Blue Ribbon",1
+417,"Birra Moretti",9
+418,"Corona Extra",4
+419,Fosters,32
+420,"Coors lite",36
+421,"Samuel Adams",26
+422,"Dos Equis",25
+423,"Birra Moretti",13
+424,Heineken,9
+425,Lowenbrau,30
+426,Quimes,14
+427,Hoegaarden,1
+428,Tsingtao,17
+429,Harp,14
+430,Leffe,22
+431,Becks,29
+432,Amstel,11
+433,Tsingtao,17
+434,BudLight,15
+435,BudLight,20
+436,Quimes,7
+437,Leffe,6
+438,Delirium,27
+439,Quimes,26
+440,"Stella Artois",12
+441,Delirium,23
+442,Amstel,23
+443,"Rolling Rock",38
+444,Leffe,30
+445,Sapporo,16
+446,"Dos Equis",38
+447,"Miller Draft",2
+448,Guinness,36
+449,"Miller Draft",36
+450,"Blue Moon",27
+451,Tsingtao,1
+452,Budweiser,10
+453,BudLight,26
+454,Carlsberg,25
+455,Paulaner,16
+456,Patagonia,18
+457,Quimes,32
+458,"Coors lite",14
+459,Heineken,16
+460,Patagonia,19
+461,"Blue Moon",27
+462,Amstel,8
+463,Sapporo,26
+464,"Dos Equis",10
+465,"Pabst Blue Ribbon",24
+466,Carlsberg,5
+467,Quimes,29
+468,Carlsberg,11
+469,Delirium,11
+470,Carlsberg,13
+471,Amstel,7
+472,Patagonia,33
+473,"Dos Equis",21
+474,"Stella Artois",6
+475,"Stella Artois",7
+476,Pacifico,8
+477,"Rolling Rock",38
+478,"Red Stripe",16
+479,Leffe,19
+480,Hoegaarden,23
+481,Leffe,30
+482,Hoegaarden,34
+483,Murphys,31
+484,Paulaner,8
+485,"Corona Extra",5
+486,Murphys,6
+487,Murphys,35
+488,"Birra Moretti",25
+489,BudLight,20
+490,BudLight,18
+491,"Samuel Adams",35
+492,Fosters,36
+493,Sapporo,34
+494,"Dos Equis",40
+495,Harp,32
+496,Murphys,33
+497,"Rolling Rock",11
+498,Hoegaarden,37
+499,Murphys,6
+500,"Samuel Adams",20
