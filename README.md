@@ -28,7 +28,7 @@ Vamos a poblar nuestra base de datos con datos simulados de cervezas, pedidos, c
 
 ### Script seed.rb (5 minutos)
 
-El archivo `seed.rb` parte de este proyecto, contiene código que permite crear los datos simulados de la tienda de cerveza al detalle. En las líneas 50 a 55 se pueden ajustar parámetros como las cantidades de países, clientes, cervecerías, marcas, cervezas, y pedidos. El profesor mostrará la ejecución del script, en donde se podrá ver que la generación de 100000 pedidos es completamente factible, pero algo lenta con SQLite y la manera cómo funciona el script.
+El archivo `seed.rb` parte de este proyecto, contiene código que permite crear los datos simulados de la tienda de cerveza al detalle. En las líneas 50 a 55 se pueden ajustar parámetros como las cantidades de países, clientes, cervecerías, marcas, cervezas, y pedidos. El profesor mostrará la ejecución del script, en donde se podrá ver que la generación de 100000 pedidos es completamente factible, pero algo lenta con SQLite. Veremos también qué hace el script.
 
 ### Archivos CSV (10 minutos)
 
